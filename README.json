@@ -1,0 +1,1331 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Rules"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "renovate",
+          "description": "Automate WORKSPACE dependencies updates",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:37:08Z",
+            "owner": "renovatebot",
+            "repo": "renovate",
+            "stars": 22249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazel-diff",
+          "description": "Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-11T21:59:22Z",
+            "owner": "Tinder",
+            "repo": "bazel-diff",
+            "stars": 516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelbuild/bazel-watcher",
+          "description": "Automatically run Bazel commands when source files change",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-23T01:02:28Z",
+            "owner": "bazelbuild",
+            "repo": "bazel-watcher",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelbuild/sandboxfs",
+          "description": "A virtual file system for sandboxing",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-04-16T19:33:45Z",
+            "owner": "bazelbuild",
+            "repo": "sandboxfs",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nadirizr/dazel",
+          "description": "Run Bazel inside a Docker container via a seamless proxy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-30T07:57:19Z",
+            "owner": "nadirizr",
+            "repo": "dazel",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spotify/bazel-tools",
+          "description": "Spotify's production tools for dealing with very large Bazel-managed repositories.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2020-02-20T18:53:12Z",
+            "owner": "spotify",
+            "repo": "bazel-tools",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "graknlabs/bazel-distribution",
+          "description": "Assemble and deploy software distributions to common platforms, e.g. APT, Brew, GitHub, Maven, NPM, PIP, RPM, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-07-30T16:28:40Z",
+            "owner": "typedb",
+            "repo": "bazel-distribution",
+            "stars": 165
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atlassian/bazel-tools",
+          "description": "Atlassian's reusable bits for Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Starlark",
+            "last_commit": "2021-02-27T20:10:06Z",
+            "owner": "atlassian",
+            "repo": "bazel-tools",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazel-super-formatter",
+          "description": "Hermetic aggregation formatter to format code in most languages",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Starlark",
+            "last_commit": "2024-02-20T11:53:08Z",
+            "owner": "aspect-archives",
+            "repo": "bazel-super-formatter",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bzl-io/bzl",
+          "description": "a wrapper around the bazel build tool to extend its functionality",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-12T05:34:14Z",
+            "owner": "bzl-io",
+            "repo": "bzl",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asana/bazeltsc",
+          "description": "TypeScript compiler that knows how to run as a Bazel persistent worker",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-04-07T08:12:52Z",
+            "owner": "AsanaArchive",
+            "repo": "bazeltsc",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelbuild/bazel-integration-testing",
+          "description": "Framework for integration tests that call Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2022-05-17T19:24:13Z",
+            "owner": "bazelbuild",
+            "repo": "bazel-integration-testing",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hchauvin/bazel-coverage-report",
+          "description": "A multi-language coverage report generator for Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Starlark",
+            "last_commit": "2020-03-05T08:11:18Z",
+            "owner": "hchauvin",
+            "repo": "bazel-coverage-report",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JetBrains/teamcity-bazel-plugin",
+          "description": "TeamCity plugin for Bazel (blogpost)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-06-22T14:44:17Z",
+            "owner": "JetBrains",
+            "repo": "teamcity-bazel-plugin",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gerrit/bazlets",
+          "description": "Gerrit's re-usable building blocks for Bazel build tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-07-19T07:51:10Z",
+            "owner": "GerritCodeReview",
+            "repo": "bazlets",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "acqio/bazel-arcanist",
+          "description": "Integration with Arcanist with and",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2022-03-10T15:26:28Z",
+            "owner": "acqio",
+            "repo": "bazel-arcanist",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "heroku-buildpack-bazel",
+          "description": "Heroku buildpack for Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2019-03-16T02:46:21Z",
+            "owner": "google",
+            "repo": "heroku-buildpack-bazel",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stackb/bazel-aquery-differ",
+          "description": "View differences between two different aquery invocations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-14T20:53:04Z",
+            "owner": "stackb",
+            "repo": "bazel_difftools",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "philwo/bazelisk",
+          "description": "A user-friendly launcher for Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-08-23T04:02:33Z",
+            "owner": "philwo",
+            "repo": "bazelisk",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "General"
+    },
+    {
+      "description": "Toolchains enable authors to decouple their rule logic from platform-based selection of tools.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grailbio/bazel-toolchain",
+          "description": "LLVM toolchain for bazel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-08-12T21:53:21Z",
+            "owner": "bazel-contrib",
+            "repo": "toolchains_llvm",
+            "stars": 370
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelbuilds/bazel-toolchains",
+          "description": "Bazel toolchain configurations to enable Google Cloud Remote Build Execution via Docker containers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-30T14:32:44Z",
+            "owner": "bazelbuild",
+            "repo": "bazel-toolchains",
+            "stars": 203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hexdae/bazel-arm-none-eabi",
+          "description": "embedded ARM toolchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-07-30T04:05:49Z",
+            "owner": "hexdae",
+            "repo": "toolchains_arm_gnu",
+            "stars": 140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "f0rmiga/gcc-toolchain",
+          "description": "A fully-hermetic Bazel GCC toolchain for Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-08-11T21:26:41Z",
+            "owner": "f0rmiga",
+            "repo": "gcc-toolchain",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelembedded/bazel-embedded",
+          "description": "Set of bazel toolchains and tools, for compiling and uploading to embedded targets",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2024-04-25T04:19:00Z",
+            "owner": "bazelembedded",
+            "repo": "bazel-embedded",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vsco/bazel-toolchains",
+          "description": "A collection of Bazel C++ build infrastructure based on Chromium's LLVM toolchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-14T18:12:29Z",
+            "owner": "vsco",
+            "repo": "bazel-toolchains",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hexdae/toolchains_riscv_gnu",
+          "description": "RISC-V toolchain",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2024-04-05T21:48:19Z",
+            "owner": "hexdae",
+            "repo": "toolchains_riscv_gnu",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Toolchains"
+    },
+    {
+      "description": "Starlark (formerly called Skylark) is Bazel's domain-specific language for writing BUILD definitions and rules.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Language description",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T18:27:51Z",
+            "owner": "bazelbuild",
+            "repo": "starlark",
+            "stars": 3063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starlark in Go",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-03-12T20:37:43Z",
+            "owner": "google",
+            "repo": "skylark",
+            "stars": 1181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skylib",
+          "description": "Common useful functions for writing custom build rules with Starlark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-07-29T11:29:49Z",
+            "owner": "bazelbuild",
+            "repo": "bazel-skylib",
+            "stars": 444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starlark in Rust",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2021-03-30T15:56:32Z",
+            "owner": "google",
+            "repo": "starlark-rust",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "aspect_bazel_lib",
+          "description": "More common useful functions for writing custom build rules with Starlark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-08-10T00:30:02Z",
+            "owner": "bazel-contrib",
+            "repo": "bazel-lib",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stardoc",
+          "description": "Starlark documentation generator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-06-23T17:13:12Z",
+            "owner": "bazelbuild",
+            "repo": "stardoc",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bazel Common Libraries",
+          "description": "Java-specific Common functionality for Google's open-source libraries that are built with Bazel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-08-05T18:13:35Z",
+            "owner": "google",
+            "repo": "bazel-common",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Starlet",
+          "description": "Go wrapper for Starlark in Go that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-13T14:25:03Z",
+            "owner": "1set",
+            "repo": "starlet",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stardbg",
+          "description": "A standalone debugger for Starlark",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-10T16:45:08Z",
+            "owner": "laurentlb",
+            "repo": "stardbg",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sphinx-Bazel",
+          "description": "Sphinx extension to read Bazel files to generate documentation (GitHub)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-21T17:00:31Z",
+            "owner": "useblocks",
+            "repo": "sphinx-bazel",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Starlark"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "buildbuddy-io/buildbuddy",
+          "description": "Cloud or self-hosted remote caching and execution service written in Go, with Web UI for viewing and debugging build logs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T03:57:15Z",
+            "owner": "buildbuddy-io",
+            "repo": "buildbuddy",
+            "stars": 779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelbuild/bazel-buildfarm",
+          "description": "Self-hosted remote caching and execution service written in Java",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-17T11:30:07Z",
+            "owner": "buildfarm",
+            "repo": "buildfarm",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazel-remote",
+          "description": "A simple remote cache for Bazel that supports HTTP and gRPC, with optional proxy backends for S3/GCS/HTTP.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-29T21:22:47Z",
+            "owner": "buchgr",
+            "repo": "bazel-remote",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asana/bazels3cache",
+          "description": "Small web server for a Bazel cache that proxies to S3, allowing Bazel to work offline and has async uploads to make Bazel faster.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-12-07T18:20:13Z",
+            "owner": "AsanaArchive",
+            "repo": "bazels3cache",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Remote caching and execution"
+    },
+    {
+      "description": "Tools for generating WORKSPACE and BUILD files from source code.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Gazelle",
+          "description": "BUILD file generator with extensions for many languages. See the list of available plugins in the project README: https://github.com/bazelbuild/bazel-gazelle#supported-languages",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-11T21:15:31Z",
+            "owner": "bazel-contrib",
+            "repo": "bazel-gazelle",
+            "stars": 1411
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tulsi for Xcode",
+          "description": "A project generator for Xcode projects",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Swift",
+            "last_commit": "2023-02-15T17:11:59Z",
+            "owner": "bazelbuild",
+            "repo": "tulsi",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pinterest/xchammer",
+          "description": "XCHammer generates Xcode projects from a Bazel Workspace",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2023-01-03T18:57:19Z",
+            "owner": "bazel-xcode",
+            "repo": "xchammer",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lavender",
+          "description": "Generate Visual Studio projects that uses Bazel for the actual building",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-23T14:13:37Z",
+            "owner": "tmandry",
+            "repo": "lavender",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jadep: Java Automated Dependencies",
+          "description": "Generate BUILD files automatically for an existing Java project with class dependency analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-01-30T13:39:21Z",
+            "owner": "cgrushko",
+            "repo": "tools_jvm_autodeps",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BUILD File Generator",
+          "description": "Similar tool for existing Java projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-06-04T11:54:51Z",
+            "owner": "bazelbuild",
+            "repo": "BUILD_file_generator",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pazel",
+          "description": "Generate Bazel BUILD files for Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-06T04:30:15Z",
+            "owner": "tuomasr",
+            "repo": "pazel",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "create-bazel-workspace",
+          "description": "Generate a new multi-language Bazel workspace with minimal configuration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-07-29T06:38:14Z",
+            "owner": "jin",
+            "repo": "create-bazel-workspace",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llvmbzlgen",
+          "description": "Tools for generating Bazel BUILD targets from LLVM CMakeLists",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-05-14T23:25:51Z",
+            "owner": "kythe",
+            "repo": "llvmbzlgen",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazel-to-msbuild",
+          "description": "Generate Visual Studio solution and projects from bazel workspace, command line tool build by Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-01-19T22:02:30Z",
+            "owner": "sammi",
+            "repo": "bazel-to-msbuild",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Project generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hedronvision/bazel-compile-commands-extractor",
+          "description": "enables autocomplete, smart navigation, quick fixes, and more in a wide variety of extensible editors, including VSCode, Vim, Emacs, Atom, and Sublime. It lets language servers, like clangd, ccls, and other types of tooling, draw upon Bazel’s understanding of how and code will be compiled, including how it configures cross-compilation for other platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-11T21:33:33Z",
+            "owner": "hedronvision",
+            "repo": "bazel-compile-commands-extractor",
+            "stars": 913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "georgewfraser/java-language-server",
+          "description": "Java Language Server (LSP) with support for Bazel-built projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T19:45:31Z",
+            "owner": "georgewfraser",
+            "repo": "java-language-server",
+            "stars": 809
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rules_xcodeproj",
+          "description": "Generates Xcode projects for your workspace that builds with Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-11T14:26:58Z",
+            "owner": "MobileNativeFoundation",
+            "repo": "rules_xcodeproj",
+            "stars": 625
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim script",
+            "last_commit": "2022-04-09T06:20:55Z",
+            "owner": "bazelbuild",
+            "repo": "vim-bazel",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sconover/rules_intellij_generate",
+          "description": "Plugin-less Bazel/IntelliJ integration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-07T02:43:52Z",
+            "owner": "sconover",
+            "repo": "rules_intellij_generate",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyCharm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2019-02-15T10:19:06Z",
+            "owner": "thanetz",
+            "repo": "bazel-for-human-beings",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Eclipse Support",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Bazel Eclipse Feature (BEF)",
+              "description": "Fork of the abandoned Google Bazel Eclipse plugin",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2026-06-02T18:06:20Z",
+                "owner": "salesforce",
+                "repo": "bazel-eclipse",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "B2Eclipse",
+              "description": "Bazel Eclipse plugin based on Eclipse JDT LS",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "Java",
+                "last_commit": "2022-02-12T14:36:36Z",
+                "owner": "salesforce",
+                "repo": "bazel-ls-eclipse",
+                "stars": 9
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "Emacs Support",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "codesuki/bazel-mode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Emacs Lisp",
+                "last_commit": "2019-11-10T22:28:45Z",
+                "owner": "codesuki",
+                "repo": "bazel-mode",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "brown/bazel-mode",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Emacs Lisp",
+                "last_commit": "2021-04-13T01:04:02Z",
+                "owner": "brown",
+                "repo": "bazel-mode",
+                "stars": 10
+              }
+            }
+          ]
+        },
+        {
+          "node_type": "group",
+          "title": "VSCode Support",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bazelbuild/vscode-bazel",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-10T20:50:26Z",
+                "owner": "bazel-contrib",
+                "repo": "vscode-bazel",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stackb/bazel-stack-vscode",
+              "description": ". Includes syntax highlighting / flag completion for bazelrc files. Hover support for inline builtin-function and bazel rule documentation. VSCode Marketplace.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2023-08-07T01:19:54Z",
+                "owner": "stackb",
+                "repo": "bazel-stack-vscode",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VSCode Bazel Java extension",
+              "description": "Proof-of-concept (POC) of a Bazel Java development extension for VS Code",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "language": "TypeScript",
+                "last_commit": "2026-06-02T18:07:07Z",
+                "owner": "salesforce",
+                "repo": "bazel-vscode-java",
+                "stars": 57
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stackb/bazel-stack-vscode-cc",
+              "description": ". Supports generation of clang compilation databases. VSCode Marketplace.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Starlark",
+                "last_commit": "2022-12-29T14:56:28Z",
+                "owner": "stackb",
+                "repo": "bazel-stack-vscode-cc",
+                "stars": 33
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "johnynek/bazel-deps",
+          "description": "Generate bazel dependencies transitively for Maven artifacts, with scala support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2025-12-15T18:10:54Z",
+            "owner": "bazeltools",
+            "repo": "bazel-deps",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wix-incubator/exodus",
+          "description": "Easily migrate your JVM code from Maven to Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2023-09-18T19:21:05Z",
+            "owner": "wix-incubator",
+            "repo": "exodus",
+            "stars": 229
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stripe/sbt-bazel",
+          "description": "Easily convert SBT projects to Bazel workspaces",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Scala",
+            "last_commit": "2019-08-05T16:41:28Z",
+            "owner": "stripe-archive",
+            "repo": "sbt-bazel",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelbuild/migration-tooling",
+          "description": "Migrate an existing Maven project to Bazel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2019-01-30T13:22:25Z",
+            "owner": "bazelbuild",
+            "repo": "migration-tooling",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rules_maven",
+          "description": "Rules to define Maven dependencies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-13T20:03:08Z",
+            "owner": "pubref",
+            "repo": "rules_maven",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelize-maven-plugin",
+          "description": "Maven plugin for migration from Maven to Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-03-28T19:14:41Z",
+            "owner": "OrhanKupusoglu",
+            "repo": "bazelize-maven-plugin",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelbuild/gmaven_rules",
+          "description": "Transitive WORKSPACE rules for Google's Maven repository",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-03-13T17:56:49Z",
+            "owner": "bazelbuild",
+            "repo": "gmaven_rules",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Migration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Tutorials"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bazel Mystery",
+          "description": "Gamified workspace to learn about Bazel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-07-23T14:14:19Z",
+            "owner": "salesforce",
+            "repo": "bazel-mystery",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bazel Lesson 1",
+          "description": "and Bazel Lesson 2 - Gradually build a multi-language Bazel project.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-05-25T20:16:47Z",
+            "owner": "sayrer",
+            "repo": "bazel-lesson-1",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Real-world Bazel",
+          "description": "BUILD files collected from public GitHub projects for reference and learning purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-12-29T19:15:34Z",
+            "owner": "cgbystrom",
+            "repo": "real-world-bazel",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "Community"
+    },
+    {
+      "description": "A list of projects built with Bazel:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tensorflow/tensorflow",
+          "description": "Computation using data flow graphs for scalable machine learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T04:03:53Z",
+            "owner": "tensorflow",
+            "repo": "tensorflow",
+            "stars": 196986
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GoogleCloudPlatform/distroless",
+          "description": "Language focused docker images, minus the operating system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-08-11T14:26:38Z",
+            "owner": "GoogleContainerTools",
+            "repo": "distroless",
+            "stars": 22945
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "abseil/abseil-cpp",
+          "description": "OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:11:23Z",
+            "owner": "abseil",
+            "repo": "abseil-cpp",
+            "stars": 18074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucperkins/colossus",
+          "description": "An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2022-06-02T18:12:42Z",
+            "owner": "lucperkins",
+            "repo": "colossus",
+            "stars": 1043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/startup-os",
+          "description": "Working examples of Google's Open Source tools and Cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2021-10-05T20:27:56Z",
+            "owner": "google",
+            "repo": "startup-os",
+            "stars": 693
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "google/subpar",
+          "description": "Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-12-27T14:53:53Z",
+            "owner": "google",
+            "repo": "subpar",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "squzy/squzy",
+          "description": "is a high-performance open-source monitoring system written in Golang with Bazel. Using Bazel for testing, building and dockerize.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-21T07:40:27Z",
+            "owner": "squzy",
+            "repo": "squzy",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alexeagle/angular-bazel-example",
+          "description": "Building an Angular application with Bazel",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-09-12T22:21:57Z",
+            "owner": "angular",
+            "repo": "angular-bazel-example",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bazelment/trunk",
+          "description": "A collection of C++/Java OSS with BUILD files. e.g. grpc, guava, netty.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-15T22:21:38Z",
+            "owner": "bazelment",
+            "repo": "trunk",
+            "stars": 242
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "Bazel demo projects:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "kriscfoster/multi-language-bazel-monorepo",
+          "description": "Bazel monorepo that includes example golang, python and javascript libraries, binaries and Docker image targets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2023-10-06T14:05:12Z",
+            "owner": "kriscfoster",
+            "repo": "multi-language-bazel-monorepo",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kastiglione/bazel-xcode-demo-swift-driver",
+          "description": "Demonstrates using Bazel and Xcode, to build apple/swift-driver.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2020-01-30T05:51:51Z",
+            "owner": "kastiglione",
+            "repo": "bazel-xcode-demo-swift-driver",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ekhabarov/bazel-k8s-envoy",
+          "description": "Build Go gRPC micoservices with Bazel and deploy them to k8s.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-01-15T05:18:25Z",
+            "owner": "ekhabarov",
+            "repo": "bazel-k8s-envoy",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nickdecooman/bazel-rust-docker-example",
+          "description": "Demonstrating Bazel setup for Rust services with Cargo and Docker support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2022-02-10T07:46:48Z",
+            "owner": "nickdecooman",
+            "repo": "bazel-rust-docker-example",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Demos"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:05:03.778Z",
+    "original_repository": "jin/awesome-bazel",
+    "original_repository_sha": "408134619ff13f5b10026f49aacb21196b4b4d16",
+    "enhanced_repository": "enhansome/enhansome-bazel",
+    "enhanced_repository_description": null,
+    "title": "Awesome Bazel with stars"
+  }
+}
