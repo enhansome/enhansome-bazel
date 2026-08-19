@@ -9,7 +9,7 @@
 
 A curated list of [Bazel](https://bazel.build) [rules](#rules), [tooling](#tooling) and [resources](#resources).
 
-Have something to contribute or discuss? [Open a pull request](https://github.com/jin/awesome-bazel/pulls) ⭐ 1,239 | 🐛 13 | 📅 2024-11-13 or [create an issue](https://github.com/jin/awesome-bazel/issues) ⭐ 1,239 | 🐛 13 | 📅 2024-11-13.
+Have something to contribute or discuss? [Open a pull request](https://github.com/jin/awesome-bazel/pulls) ⭐ 1,240 | 🐛 13 | 📅 2024-11-13 or [create an issue](https://github.com/jin/awesome-bazel/issues) ⭐ 1,240 | 🐛 13 | 📅 2024-11-13.
 
 ***
 
@@ -881,8 +881,8 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 ### General
 
-* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,286 | 🐛 1,314 | 🌐 TypeScript | 📅 2026-08-18 - Automate WORKSPACE dependencies updates
-* [bazel-diff](https://github.com/Tinder/bazel-diff) ⭐ 516 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-17 - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
+* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,294 | 🐛 1,316 | 🌐 TypeScript | 📅 2026-08-19 - Automate WORKSPACE dependencies updates
+* [bazel-diff](https://github.com/Tinder/bazel-diff) ⭐ 516 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-17 - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 * [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) ⭐ 512 | 🐛 20 | 🌐 Go | 📅 2026-07-23 - Automatically run Bazel commands when source files change
 * [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) ⚠️ Archived - A virtual file system for sandboxing
 * [nadirizr/dazel](https://github.com/nadirizr/dazel) ⭐ 179 | 🐛 24 | 🌐 Python | 📅 2025-06-30 - Run Bazel inside a Docker container via a seamless proxy
@@ -926,7 +926,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 * [Starlark in Rust](https://github.com/google/starlark-rust) ⚠️ Archived
 * [aspect\_bazel\_lib](https://github.com/aspect-build/bazel-lib) ⭐ 182 | 🐛 72 | 🌐 Starlark | 📅 2026-08-17 - More common useful functions for writing custom build rules with Starlark
 * [Stardoc](https://github.com/bazelbuild/stardoc) ⭐ 118 | 🐛 60 | 🌐 Java | 📅 2026-06-23 - Starlark documentation generator
-* [Bazel Common Libraries](https://github.com/google/bazel-common) ⭐ 90 | 🐛 20 | 🌐 Starlark | 📅 2026-08-18 - **Java-specific** Common functionality for Google's open-source libraries that are built with Bazel.
+* [Bazel Common Libraries](https://github.com/google/bazel-common) ⭐ 90 | 🐛 19 | 🌐 Starlark | 📅 2026-08-18 - **Java-specific** Common functionality for Google's open-source libraries that are built with Bazel.
 * [Starlet](https://github.com/1set/starlet) ⭐ 48 | 🐛 2 | 🌐 Go | 📅 2026-07-13 - Go wrapper for [Starlark in Go](https://github.com/google/starlark-go) ⭐ 2,749 | 🐛 76 | 🌐 Go | 📅 2026-07-10 that simplifies script execution, offers data conversion, and useful Starlark libraries and extensions.
 * [Stardbg](https://github.com/laurentlb/stardbg) ⭐ 22 | 🐛 0 | 🌐 JavaScript | 📅 2020-07-10 - A standalone debugger for Starlark
 * [Sphinx-Bazel](https://sphinx-bazel.readthedocs.io/en/latest/) - [Sphinx](http://www.sphinx-doc.org/en/master/) extension to read Bazel files to generate documentation ([GitHub](https://github.com/useblocks/sphinx-bazel) ⭐ 11 | 🐛 16 | 🌐 Python | 📅 2023-12-21)
@@ -934,7 +934,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 
 ### Remote caching and execution
 
-* [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) ⭐ 781 | 🐛 258 | 🌐 Go | 📅 2026-08-18 - Cloud or self-hosted remote caching and execution service written in Go, with Web UI for viewing and debugging build logs
+* [buildbuddy-io/buildbuddy](https://github.com/buildbuddy-io/buildbuddy) ⭐ 781 | 🐛 248 | 🌐 Go | 📅 2026-08-19 - Cloud or self-hosted remote caching and execution service written in Go, with Web UI for viewing and debugging build logs
 * [bazelbuild/bazel-buildfarm](https://github.com/bazelbuild/bazel-buildfarm) ⭐ 769 | 🐛 172 | 🌐 Java | 📅 2026-08-17 - Self-hosted remote caching and execution service written in Java
 * [bazel-remote](https://github.com/buchgr/bazel-remote) ⭐ 765 | 🐛 81 | 🌐 Go | 📅 2026-07-29 - A simple remote cache for Bazel that supports HTTP and gRPC, with optional proxy backends for S3/GCS/HTTP.
 * [Asana/bazels3cache](https://github.com/Asana/bazels3cache) ⚠️ Archived - Small web server for a Bazel cache that proxies to S3, allowing Bazel to work offline and has async uploads to make Bazel faster.
@@ -946,7 +946,7 @@ Starlark (formerly called Skylark) is Bazel's domain-specific language for writi
 
 Tools for generating WORKSPACE and BUILD files from source code.
 
-* [Gazelle](https://github.com/bazelbuild/bazel-gazelle) ⭐ 1,412 | 🐛 459 | 🌐 Go | 📅 2026-08-17 - BUILD file generator with extensions for many languages. See the list of available plugins in the project README: <https://github.com/bazelbuild/bazel-gazelle#supported-languages> ⭐ 1,412 | 🐛 459 | 🌐 Go | 📅 2026-08-17
+* [Gazelle](https://github.com/bazelbuild/bazel-gazelle) ⭐ 1,412 | 🐛 456 | 🌐 Go | 📅 2026-08-18 - BUILD file generator with extensions for many languages. See the list of available plugins in the project README: <https://github.com/bazelbuild/bazel-gazelle#supported-languages> ⭐ 1,412 | 🐛 456 | 🌐 Go | 📅 2026-08-18
 * [Tulsi for Xcode](https://github.com/bazelbuild/tulsi) ⚠️ Archived - A project generator for Xcode projects
 * [pinterest/xchammer](https://github.com/pinterest/xchammer) ⭐ 314 | 🐛 57 | 🌐 Swift | 📅 2023-01-03 - XCHammer generates Xcode projects from a Bazel Workspace
 * [Lavender](https://github.com/tmandry/lavender) ⭐ 77 | 🐛 14 | 🌐 Python | 📅 2022-05-23 - Generate Visual Studio projects that uses Bazel for the actual building
@@ -963,7 +963,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 * [hedronvision/bazel-compile-commands-extractor](https://github.com/hedronvision/bazel-compile-commands-extractor) ⭐ 913 | 🐛 100 | 🌐 Python | 📅 2025-08-11 enables autocomplete, smart navigation, quick fixes, and more in a wide variety of extensible editors, including VSCode, Vim, Emacs, Atom, and Sublime. It lets language servers, like clangd, ccls, and other types of tooling, draw upon Bazel’s understanding of how `cc` and `objc` code will be compiled, including how it configures cross-compilation for other platforms.
 * [georgewfraser/java-language-server](https://github.com/georgewfraser/java-language-server) ⭐ 811 | 🐛 116 | 🌐 Java | 📅 2026-08-11 - Java Language Server (LSP) with support for Bazel-built projects
-* [rules\_xcodeproj](https://github.com/MobileNativeFoundation/rules_xcodeproj) ⭐ 625 | 🐛 150 | 🌐 Swift | 📅 2026-08-11 - Generates Xcode projects for your workspace that builds with Bazel
+* [rules\_xcodeproj](https://github.com/MobileNativeFoundation/rules_xcodeproj) ⭐ 625 | 🐛 151 | 🌐 Swift | 📅 2026-08-18 - Generates Xcode projects for your workspace that builds with Bazel
 * [Vim plugin](https://github.com/bazelbuild/vim-bazel) ⚠️ Archived
 * [sconover/rules\_intellij\_generate](https://github.com/sconover/rules_intellij_generate) ⭐ 14 | 🐛 4 | 🌐 Python | 📅 2023-01-07 - Plugin-less Bazel/IntelliJ integration
 * [PyCharm](https://github.com/tomhanetz/bazel-for-human-beings) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2019-02-15
@@ -982,7 +982,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 ### BUILD file tools
 
-[bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) ⭐ 1,187 | 🐛 117 | 🌐 Go | 📅 2026-07-16 contains:
+[bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) ⭐ 1,187 | 🐛 120 | 🌐 Go | 📅 2026-07-16 contains:
 
 * Buildifier - Prettifier for `BUILD` and `.bzl` files
 * Buildozer - Manipulate `BUILD` file contents from the command line
@@ -1051,9 +1051,9 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 A list of projects built with Bazel:
 
-* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,024 | 🐛 2,923 | 🌐 C++ | 📅 2026-08-18: Computation using data flow graphs for scalable machine learning.
-* [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) ⭐ 23,012 | 🐛 18 | 🌐 Starlark | 📅 2026-08-17 - Language focused docker images, minus the operating system.
-* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,080 | 🐛 232 | 🌐 C++ | 📅 2026-08-18 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,053 | 🐛 3,006 | 🌐 C++ | 📅 2026-08-19: Computation using data flow graphs for scalable machine learning.
+* [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) ⭐ 23,018 | 🐛 18 | 🌐 Starlark | 📅 2026-08-17 - Language focused docker images, minus the operating system.
+* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,083 | 🐛 232 | 🌐 C++ | 📅 2026-08-19 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 * [lucperkins/colossus](https://github.com/lucperkins/colossus) ⭐ 1,043 | 🐛 1 | 🌐 Starlark | 📅 2022-06-02 - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
 * [google/startup-os](https://github.com/google/startup-os) ⚠️ Archived - Working examples of Google's Open Source tools and Cloud.
 * [google/subpar](https://github.com/google/subpar) ⚠️ Archived - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
@@ -1067,7 +1067,7 @@ A list of projects built with Bazel:
 Bazel demo projects:
 
 * [kriscfoster/multi-language-bazel-monorepo](https://github.com/kriscfoster/multi-language-bazel-monorepo) ⭐ 120 | 🐛 0 | 🌐 Starlark | 📅 2023-10-06: Bazel monorepo that includes example golang, python and javascript libraries, binaries and Docker image targets.
-* [kastiglione/bazel-xcode-demo-swift-driver](https://github.com/kastiglione/bazel-xcode-demo-swift-driver) ⭐ 56 | 🐛 0 | 🌐 Swift | 📅 2020-01-30: Demonstrates using Bazel and Xcode, to build [apple/swift-driver](https://github.com/apple/swift-driver) ⭐ 847 | 🐛 104 | 🌐 Swift | 📅 2026-08-16.
+* [kastiglione/bazel-xcode-demo-swift-driver](https://github.com/kastiglione/bazel-xcode-demo-swift-driver) ⭐ 56 | 🐛 0 | 🌐 Swift | 📅 2020-01-30: Demonstrates using Bazel and Xcode, to build [apple/swift-driver](https://github.com/apple/swift-driver) ⭐ 847 | 🐛 103 | 🌐 Swift | 📅 2026-08-19.
 * [ekhabarov/bazel-k8s-envoy](https://github.com/ekhabarov/bazel-k8s-envoy) ⭐ 18 | 🐛 0 | 🌐 Starlark | 📅 2026-01-15: Build Go gRPC micoservices with Bazel and deploy them to k8s.
 * [nickdecooman/bazel-rust-docker-example](https://github.com/nickdecooman/bazel-rust-docker-example) ⭐ 13 | 🐛 1 | 🌐 Starlark | 📅 2022-02-10: Demonstrating Bazel setup for Rust services with Cargo and Docker support.
 
@@ -1163,4 +1163,4 @@ Bazel demo projects:
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

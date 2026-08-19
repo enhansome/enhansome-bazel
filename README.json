@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T03:50:28Z",
+            "last_commit": "2026-08-19T03:38:26Z",
             "owner": "renovatebot",
             "repo": "renovate",
-            "stars": 22286
+            "stars": 22294
           }
         },
         {
@@ -481,7 +481,7 @@
           "repo_info": {
             "archived": false,
             "language": "Starlark",
-            "last_commit": "2026-08-18T01:53:20Z",
+            "last_commit": "2026-08-18T15:41:03Z",
             "owner": "google",
             "repo": "bazel-common",
             "stars": 90
@@ -543,7 +543,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-18T04:05:37Z",
+            "last_commit": "2026-08-19T03:55:33Z",
             "owner": "buildbuddy-io",
             "repo": "buildbuddy",
             "stars": 781
@@ -605,7 +605,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T22:24:07Z",
+            "last_commit": "2026-08-18T17:56:12Z",
             "owner": "bazel-contrib",
             "repo": "bazel-gazelle",
             "stars": 1412
@@ -779,7 +779,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-11T14:26:58Z",
+            "last_commit": "2026-08-18T17:20:43Z",
             "owner": "MobileNativeFoundation",
             "repo": "rules_xcodeproj",
             "stars": 625
@@ -1136,10 +1136,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T04:15:32Z",
+            "last_commit": "2026-08-19T04:16:12Z",
             "owner": "tensorflow",
             "repo": "tensorflow",
-            "stars": 197024
+            "stars": 197053
           }
         },
         {
@@ -1153,7 +1153,7 @@
             "last_commit": "2026-08-17T23:54:05Z",
             "owner": "GoogleContainerTools",
             "repo": "distroless",
-            "stars": 23012
+            "stars": 23018
           }
         },
         {
@@ -1164,10 +1164,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T02:20:15Z",
+            "last_commit": "2026-08-19T02:04:42Z",
             "owner": "abseil",
             "repo": "abseil-cpp",
-            "stars": 18080
+            "stars": 18083
           }
         },
         {
@@ -1321,7 +1321,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:20:25.070Z",
+    "last_updated": "2026-08-19T04:21:56.687Z",
     "original_repository": "jin/awesome-bazel",
     "original_repository_sha": "408134619ff13f5b10026f49aacb21196b4b4d16",
     "enhanced_repository": "enhansome/enhansome-bazel",
