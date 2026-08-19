@@ -881,7 +881,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 ### General
 
-* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,294 | 🐛 1,316 | 🌐 TypeScript | 📅 2026-08-19 - Automate WORKSPACE dependencies updates
+* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,296 | 🐛 1,317 | 🌐 TypeScript | 📅 2026-08-19 - Automate WORKSPACE dependencies updates
 * [bazel-diff](https://github.com/Tinder/bazel-diff) ⭐ 516 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-17 - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 * [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) ⭐ 512 | 🐛 20 | 🌐 Go | 📅 2026-07-23 - Automatically run Bazel commands when source files change
 * [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) ⚠️ Archived - A virtual file system for sandboxing
@@ -920,7 +920,7 @@ Toolchains enable authors to decouple their rule logic from platform-based selec
 
 Starlark (formerly called Skylark) is Bazel's domain-specific language for writing BUILD definitions and rules.
 
-* [Language description](https://github.com/bazelbuild/starlark/) ⭐ 3,071 | 🐛 96 | 🌐 Python | 📅 2026-02-06
+* [Language description](https://github.com/bazelbuild/starlark/) ⭐ 3,072 | 🐛 96 | 🌐 Python | 📅 2026-02-06
 * [Starlark in Go](https://github.com/google/skylark) ⚠️ Archived
 * [Skylib](https://github.com/bazelbuild/bazel-skylib) ⭐ 444 | 🐛 140 | 🌐 Starlark | 📅 2026-07-29 - Common useful functions for writing custom build rules with Starlark
 * [Starlark in Rust](https://github.com/google/starlark-rust) ⚠️ Archived
@@ -982,7 +982,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 ### BUILD file tools
 
-[bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) ⭐ 1,187 | 🐛 120 | 🌐 Go | 📅 2026-07-16 contains:
+[bazelbuild/buildtools](https://github.com/bazelbuild/buildtools) ⭐ 1,187 | 🐛 121 | 🌐 Go | 📅 2026-08-19 contains:
 
 * Buildifier - Prettifier for `BUILD` and `.bzl` files
 * Buildozer - Manipulate `BUILD` file contents from the command line
@@ -1051,9 +1051,9 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 A list of projects built with Bazel:
 
-* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,053 | 🐛 3,006 | 🌐 C++ | 📅 2026-08-19: Computation using data flow graphs for scalable machine learning.
-* [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) ⭐ 23,018 | 🐛 18 | 🌐 Starlark | 📅 2026-08-17 - Language focused docker images, minus the operating system.
-* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,083 | 🐛 232 | 🌐 C++ | 📅 2026-08-19 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,061 | 🐛 3,041 | 🌐 C++ | 📅 2026-08-19: Computation using data flow graphs for scalable machine learning.
+* [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) ⭐ 23,017 | 🐛 18 | 🌐 Starlark | 📅 2026-08-17 - Language focused docker images, minus the operating system.
+* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,082 | 🐛 233 | 🌐 C++ | 📅 2026-08-19 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 * [lucperkins/colossus](https://github.com/lucperkins/colossus) ⭐ 1,043 | 🐛 1 | 🌐 Starlark | 📅 2022-06-02 - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
 * [google/startup-os](https://github.com/google/startup-os) ⚠️ Archived - Working examples of Google's Open Source tools and Cloud.
 * [google/subpar](https://github.com/google/subpar) ⚠️ Archived - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
