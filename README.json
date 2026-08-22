@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 76734068,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T23:03:44Z",
+                "last_commit": "2026-08-21T13:58:04Z",
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22306
+                "stars": 22311
               }
             },
             {
@@ -421,7 +421,7 @@
                 "last_commit": "2026-02-06T18:27:51Z",
                 "owner": "bazelbuild",
                 "repo": "starlark",
-                "stars": 3073
+                "stars": 3074
               }
             },
             {
@@ -508,7 +508,7 @@
                 "archived": false,
                 "id": 123311177,
                 "language": "Starlark",
-                "last_commit": "2026-08-18T15:41:03Z",
+                "last_commit": "2026-08-21T22:49:25Z",
                 "owner": "google",
                 "repo": "bazel-common",
                 "stars": 90
@@ -575,7 +575,7 @@
                 "archived": false,
                 "id": 240583093,
                 "language": "Go",
-                "last_commit": "2026-08-21T04:05:45Z",
+                "last_commit": "2026-08-22T04:10:33Z",
                 "owner": "buildbuddy-io",
                 "repo": "buildbuddy",
                 "stars": 784
@@ -590,7 +590,7 @@
                 "archived": false,
                 "id": 96434626,
                 "language": "Java",
-                "last_commit": "2026-08-21T01:24:18Z",
+                "last_commit": "2026-08-21T13:55:08Z",
                 "owner": "buildfarm",
                 "repo": "buildfarm",
                 "stars": 769
@@ -1214,10 +1214,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-21T04:17:42Z",
+                "last_commit": "2026-08-22T04:11:47Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197196
+                "stars": 197213
               }
             },
             {
@@ -1229,10 +1229,10 @@
                 "archived": false,
                 "id": 88674404,
                 "language": "Starlark",
-                "last_commit": "2026-08-21T02:59:49Z",
+                "last_commit": "2026-08-21T22:47:23Z",
                 "owner": "GoogleContainerTools",
                 "repo": "distroless",
-                "stars": 23020
+                "stars": 23021
               }
             },
             {
@@ -1244,10 +1244,10 @@
                 "archived": false,
                 "id": 104231541,
                 "language": "C++",
-                "last_commit": "2026-08-20T19:52:29Z",
+                "last_commit": "2026-08-21T21:05:45Z",
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18088
+                "stars": 18093
               }
             },
             {
@@ -1417,7 +1417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T04:23:52.795Z",
+    "last_updated": "2026-08-22T04:17:11.401Z",
     "original_repository": "jin/awesome-bazel",
     "original_repository_id": 108140785,
     "original_repository_sha": "408134619ff13f5b10026f49aacb21196b4b4d16",
