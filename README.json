@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 76734068,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:45:02Z",
+                "last_commit": "2026-08-24T14:13:31Z",
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22323
+                "stars": 22322
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 295491525,
                 "language": "Kotlin",
-                "last_commit": "2026-08-22T14:38:15Z",
+                "last_commit": "2026-08-24T11:25:41Z",
                 "owner": "Tinder",
                 "repo": "bazel-diff",
                 "stars": 516
@@ -511,7 +511,7 @@
                 "last_commit": "2026-08-21T22:49:25Z",
                 "owner": "google",
                 "repo": "bazel-common",
-                "stars": 90
+                "stars": 91
               }
             },
             {
@@ -575,7 +575,7 @@
                 "archived": false,
                 "id": 240583093,
                 "language": "Go",
-                "last_commit": "2026-08-24T04:26:06Z",
+                "last_commit": "2026-08-24T13:48:54Z",
                 "owner": "buildbuddy-io",
                 "repo": "buildbuddy",
                 "stars": 784
@@ -1030,6 +1030,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "bazelbuild/buildtools",
+              "description": "contains:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60805080,
+                "language": "Go",
+                "last_commit": "2026-08-19T13:51:30Z",
+                "owner": "bazel-contrib",
+                "repo": "buildtools",
+                "stars": 1189
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "BUILD file tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "johnynek/bazel-deps",
               "description": "Generate bazel dependencies transitively for Maven artifacts, with scala support.",
               "children": [],
@@ -1137,6 +1159,28 @@
           "description": null,
           "node_type": "group",
           "title": "Migration"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "salesforce/bazel-maven-proxy",
+              "description": "A local proxy to access Maven resources behind secure repositories or from the local repo",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185188267,
+                "language": "Java",
+                "last_commit": "2026-06-02T18:05:11Z",
+                "owner": "salesforce",
+                "repo": "bazel-maven-proxy",
+                "stars": 24
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
       "title": "Tooling"
@@ -1144,6 +1188,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "bazelbuild/proposals",
+              "description": "Index of all design documents and proposals for Bazel.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 140339230,
+                "language": null,
+                "last_commit": "2026-07-24T08:33:18Z",
+                "owner": "bazelbuild",
+                "repo": "proposals",
+                "stars": 136
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Designs"
+        },
         {
           "children": [
             {
@@ -1214,10 +1280,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-23T18:16:01Z",
+                "last_commit": "2026-08-24T14:09:17Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197378
+                "stars": 197384
               }
             },
             {
@@ -1232,7 +1298,7 @@
                 "last_commit": "2026-08-21T22:47:23Z",
                 "owner": "GoogleContainerTools",
                 "repo": "distroless",
-                "stars": 23022
+                "stars": 23023
               }
             },
             {
@@ -1244,10 +1310,10 @@
                 "archived": false,
                 "id": 104231541,
                 "language": "C++",
-                "last_commit": "2026-08-22T08:45:16Z",
+                "last_commit": "2026-08-24T13:52:40Z",
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18094
+                "stars": 18095
               }
             },
             {
@@ -1417,7 +1483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T04:29:17.532Z",
+    "last_updated": "2026-08-24T14:15:48.726Z",
     "original_repository": "jin/awesome-bazel",
     "original_repository_id": 108140785,
     "original_repository_sha": "408134619ff13f5b10026f49aacb21196b4b4d16",
