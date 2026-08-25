@@ -881,7 +881,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 ### General
 
-* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,323 | 🐛 1,326 | 🌐 TypeScript | 📅 2026-08-24 - Automate WORKSPACE dependencies updates
+* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,324 | 🐛 1,327 | 🌐 TypeScript | 📅 2026-08-24 - Automate WORKSPACE dependencies updates
 * [bazel-diff](https://github.com/Tinder/bazel-diff) ⭐ 516 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-24 - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 * [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) ⭐ 512 | 🐛 19 | 🌐 Go | 📅 2026-07-23 - Automatically run Bazel commands when source files change
 * [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) ⚠️ Archived - A virtual file system for sandboxing
@@ -1051,9 +1051,9 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 A list of projects built with Bazel:
 
-* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,565 | 🐛 2,924 | 🌐 C++ | 📅 2026-08-25: Computation using data flow graphs for scalable machine learning.
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,613 | 🐛 2,928 | 🌐 C++ | 📅 2026-08-25: Computation using data flow graphs for scalable machine learning.
 * [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) ⭐ 23,024 | 🐛 19 | 🌐 Starlark | 📅 2026-08-25 - Language focused docker images, minus the operating system.
-* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,096 | 🐛 231 | 🌐 C++ | 📅 2026-08-25 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,097 | 🐛 231 | 🌐 C++ | 📅 2026-08-25 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 * [lucperkins/colossus](https://github.com/lucperkins/colossus) ⭐ 1,043 | 🐛 1 | 🌐 Starlark | 📅 2022-06-02 - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
 * [google/startup-os](https://github.com/google/startup-os) ⚠️ Archived - Working examples of Google's Open Source tools and Cloud.
 * [google/subpar](https://github.com/google/subpar) ⚠️ Archived - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
