@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 76734068,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T03:49:29Z",
+                "last_commit": "2026-08-27T10:09:30Z",
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22335
+                "stars": 22352
               }
             },
             {
@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 295491525,
                 "language": "Kotlin",
-                "last_commit": "2026-08-25T23:57:03Z",
+                "last_commit": "2026-08-26T23:31:44Z",
                 "owner": "Tinder",
                 "repo": "bazel-diff",
-                "stars": 517
+                "stars": 518
               }
             },
             {
@@ -104,7 +104,7 @@
                 "archived": false,
                 "id": 159188705,
                 "language": "Starlark",
-                "last_commit": "2026-08-13T16:01:06Z",
+                "last_commit": "2026-08-27T09:09:05Z",
                 "owner": "typedb",
                 "repo": "bazel-distribution",
                 "stars": 165
@@ -421,7 +421,7 @@
                 "last_commit": "2026-02-06T18:27:51Z",
                 "owner": "bazelbuild",
                 "repo": "starlark",
-                "stars": 3074
+                "stars": 3075
               }
             },
             {
@@ -575,7 +575,7 @@
                 "archived": false,
                 "id": 240583093,
                 "language": "Go",
-                "last_commit": "2026-08-25T22:42:42Z",
+                "last_commit": "2026-08-27T04:43:43Z",
                 "owner": "buildbuddy-io",
                 "repo": "buildbuddy",
                 "stars": 785
@@ -590,10 +590,10 @@
                 "archived": false,
                 "id": 96434626,
                 "language": "Java",
-                "last_commit": "2026-08-25T15:55:54Z",
+                "last_commit": "2026-08-26T19:39:05Z",
                 "owner": "buildfarm",
                 "repo": "buildfarm",
-                "stars": 770
+                "stars": 771
               }
             },
             {
@@ -608,7 +608,7 @@
                 "last_commit": "2026-08-22T20:38:20Z",
                 "owner": "buchgr",
                 "repo": "bazel-remote",
-                "stars": 766
+                "stars": 767
               }
             },
             {
@@ -645,7 +645,7 @@
                 "last_commit": "2026-08-25T11:30:27Z",
                 "owner": "bazel-contrib",
                 "repo": "bazel-gazelle",
-                "stars": 1412
+                "stars": 1415
               }
             },
             {
@@ -986,7 +986,7 @@
                     "last_commit": "2023-08-07T01:19:54Z",
                     "owner": "stackb",
                     "repo": "bazel-stack-vscode",
-                    "stars": 70
+                    "stars": 71
                   }
                 },
                 {
@@ -1037,10 +1037,10 @@
                 "archived": false,
                 "id": 60805080,
                 "language": "Go",
-                "last_commit": "2026-08-24T16:36:18Z",
+                "last_commit": "2026-08-26T22:13:25Z",
                 "owner": "bazel-contrib",
                 "repo": "buildtools",
-                "stars": 1189
+                "stars": 1190
               }
             }
           ],
@@ -1280,10 +1280,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-26T04:23:49Z",
+                "last_commit": "2026-08-27T11:26:56Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197636
+                "stars": 197719
               }
             },
             {
@@ -1295,10 +1295,10 @@
                 "archived": false,
                 "id": 88674404,
                 "language": "Starlark",
-                "last_commit": "2026-08-25T21:31:35Z",
+                "last_commit": "2026-08-27T11:27:34Z",
                 "owner": "GoogleContainerTools",
                 "repo": "distroless",
-                "stars": 23030
+                "stars": 23038
               }
             },
             {
@@ -1310,10 +1310,10 @@
                 "archived": false,
                 "id": 104231541,
                 "language": "C++",
-                "last_commit": "2026-08-25T17:30:20Z",
+                "last_commit": "2026-08-26T23:13:04Z",
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18101
+                "stars": 18105
               }
             },
             {
@@ -1483,9 +1483,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T04:24:34.965Z",
-    "original_repository": "jin/awesome-bazel",
-    "original_repository_id": 108140785,
+    "last_updated": "2026-08-27T11:28:05.987Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 108140785,
+      "language": null,
+      "last_commit": "2024-11-13T07:46:30Z",
+      "owner": "jin",
+      "repo": "awesome-bazel",
+      "stars": 1240
+    },
     "original_repository_sha": "408134619ff13f5b10026f49aacb21196b4b4d16",
     "enhanced_repository": "enhansome/enhansome-bazel",
     "enhanced_repository_description": null,
