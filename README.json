@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 76734068,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:09:30Z",
+                "last_commit": "2026-08-27T14:41:21Z",
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22352
+                "stars": 22355
               }
             },
             {
@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 295491525,
                 "language": "Kotlin",
-                "last_commit": "2026-08-26T23:31:44Z",
+                "last_commit": "2026-08-27T13:14:08Z",
                 "owner": "Tinder",
                 "repo": "bazel-diff",
                 "stars": 518
@@ -575,7 +575,7 @@
                 "archived": false,
                 "id": 240583093,
                 "language": "Go",
-                "last_commit": "2026-08-27T04:43:43Z",
+                "last_commit": "2026-08-27T14:23:50Z",
                 "owner": "buildbuddy-io",
                 "repo": "buildbuddy",
                 "stars": 785
@@ -1280,10 +1280,10 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:26:56Z",
+                "last_commit": "2026-08-27T14:46:50Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197719
+                "stars": 197726
               }
             },
             {
@@ -1295,10 +1295,10 @@
                 "archived": false,
                 "id": 88674404,
                 "language": "Starlark",
-                "last_commit": "2026-08-27T11:27:34Z",
+                "last_commit": "2026-08-27T12:34:41Z",
                 "owner": "GoogleContainerTools",
                 "repo": "distroless",
-                "stars": 23038
+                "stars": 23040
               }
             },
             {
@@ -1310,10 +1310,10 @@
                 "archived": false,
                 "id": 104231541,
                 "language": "C++",
-                "last_commit": "2026-08-26T23:13:04Z",
+                "last_commit": "2026-08-27T14:23:05Z",
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18105
+                "stars": 18104
               }
             },
             {
@@ -1483,7 +1483,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:28:05.987Z",
+    "last_updated": "2026-08-27T14:46:48.954Z",
     "original_repository_info": {
       "archived": false,
       "id": 108140785,

@@ -881,8 +881,8 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 ### General
 
-* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,352 | 🐛 1,330 | 🌐 TypeScript | 📅 2026-08-27 - Automate WORKSPACE dependencies updates
-* [bazel-diff](https://github.com/Tinder/bazel-diff) ⭐ 518 | 🐛 3 | 🌐 Kotlin | 📅 2026-08-26 - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
+* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,355 | 🐛 1,337 | 🌐 TypeScript | 📅 2026-08-27 - Automate WORKSPACE dependencies updates
+* [bazel-diff](https://github.com/Tinder/bazel-diff) ⭐ 518 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-27 - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 * [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) ⭐ 512 | 🐛 18 | 🌐 Go | 📅 2026-08-26 - Automatically run Bazel commands when source files change
 * [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) ⚠️ Archived - A virtual file system for sandboxing
 * [nadirizr/dazel](https://github.com/nadirizr/dazel) ⭐ 178 | 🐛 24 | 🌐 Python | 📅 2025-06-30 - Run Bazel inside a Docker container via a seamless proxy
@@ -970,7 +970,7 @@ Tools for generating WORKSPACE and BUILD files from source code.
 * [IntelliJ plugin (compatible with Android Studio and CLion)](https://ij.bazel.build)
 * Eclipse Support
   * [Bazel Eclipse Feature (BEF)](https://github.com/salesforce/bazel-eclipse) ⚠️ Archived - Fork of the abandoned [Google Bazel Eclipse plugin](https://github.com/bazelbuild/eclipse) ⚠️ Archived
-  * [B2Eclipse](https://github.com/salesforce/bazel-ls-eclipse) ⚠️ Archived - Bazel Eclipse plugin based on [Eclipse JDT LS](https://github.com/eclipse/eclipse.jdt.ls) ⭐ 2,424 | 🐛 447 | 🌐 Java | 📅 2026-08-27
+  * [B2Eclipse](https://github.com/salesforce/bazel-ls-eclipse) ⚠️ Archived - Bazel Eclipse plugin based on [Eclipse JDT LS](https://github.com/eclipse/eclipse.jdt.ls) ⭐ 2,424 | 🐛 446 | 🌐 Java | 📅 2026-08-27
 * Emacs Support
   * [codesuki/bazel-mode](https://github.com/codesuki/bazel-mode) ⭐ 16 | 🐛 1 | 🌐 Emacs Lisp | 📅 2019-11-10:
   * [brown/bazel-mode](https://github.com/brown/bazel-mode) ⭐ 10 | 🐛 0 | 🌐 Emacs Lisp | 📅 2021-04-13
@@ -1051,9 +1051,9 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 A list of projects built with Bazel:
 
-* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,719 | 🐛 2,942 | 🌐 C++ | 📅 2026-08-27: Computation using data flow graphs for scalable machine learning.
-* [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) ⭐ 23,038 | 🐛 15 | 🌐 Starlark | 📅 2026-08-27 - Language focused docker images, minus the operating system.
-* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,105 | 🐛 238 | 🌐 C++ | 📅 2026-08-26 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,726 | 🐛 2,933 | 🌐 C++ | 📅 2026-08-27: Computation using data flow graphs for scalable machine learning.
+* [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) ⭐ 23,040 | 🐛 14 | 🌐 Starlark | 📅 2026-08-27 - Language focused docker images, minus the operating system.
+* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,104 | 🐛 237 | 🌐 C++ | 📅 2026-08-27 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 * [lucperkins/colossus](https://github.com/lucperkins/colossus) ⭐ 1,043 | 🐛 1 | 🌐 Starlark | 📅 2022-06-02 - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
 * [google/startup-os](https://github.com/google/startup-os) ⚠️ Archived - Working examples of Google's Open Source tools and Cloud.
 * [google/subpar](https://github.com/google/subpar) ⚠️ Archived - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
