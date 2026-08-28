@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 76734068,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T14:41:21Z",
+                "last_commit": "2026-08-28T12:57:23Z",
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22355
-              }
+                "stars": 22366
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 295491525,
                 "language": "Kotlin",
-                "last_commit": "2026-08-27T13:14:08Z",
+                "last_commit": "2026-08-28T15:23:10Z",
                 "owner": "Tinder",
                 "repo": "bazel-diff",
                 "stars": 518
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "bazelbuild",
                 "repo": "bazel-watcher",
                 "stars": 512
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "bazelbuild",
                 "repo": "sandboxfs",
                 "stars": 404
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "nadirizr",
                 "repo": "dazel",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "spotify",
                 "repo": "bazel-tools",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "typedb",
                 "repo": "bazel-distribution",
                 "stars": 165
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -123,7 +130,8 @@
                 "owner": "atlassian",
                 "repo": "bazel-tools",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -138,7 +146,8 @@
                 "owner": "aspect-archives",
                 "repo": "bazel-super-formatter",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -153,7 +162,8 @@
                 "owner": "bzl-io",
                 "repo": "bzl",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -168,7 +178,8 @@
                 "owner": "AsanaArchive",
                 "repo": "bazeltsc",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -183,7 +194,8 @@
                 "owner": "bazelbuild",
                 "repo": "bazel-integration-testing",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -198,7 +210,8 @@
                 "owner": "hchauvin",
                 "repo": "bazel-coverage-report",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -213,7 +226,8 @@
                 "owner": "JetBrains",
                 "repo": "teamcity-bazel-plugin",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -228,7 +242,8 @@
                 "owner": "GerritCodeReview",
                 "repo": "bazlets",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -243,7 +258,8 @@
                 "owner": "acqio",
                 "repo": "bazel-arcanist",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -258,7 +274,8 @@
                 "owner": "google",
                 "repo": "heroku-buildpack-bazel",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -273,7 +290,8 @@
                 "owner": "stackb",
                 "repo": "bazel_difftools",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -288,7 +306,8 @@
                 "owner": "philwo",
                 "repo": "bazelisk",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": null,
@@ -310,7 +329,8 @@
                 "owner": "bazel-contrib",
                 "repo": "toolchains_llvm",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "bazelbuild",
                 "repo": "bazel-toolchains",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "hexdae",
                 "repo": "toolchains_arm_gnu",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "f0rmiga",
                 "repo": "gcc-toolchain",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "bazelembedded",
                 "repo": "bazel-embedded",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -385,7 +409,8 @@
                 "owner": "vsco",
                 "repo": "bazel-toolchains",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -400,7 +425,8 @@
                 "owner": "hexdae",
                 "repo": "toolchains_riscv_gnu",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": "Toolchains enable authors to decouple their rule logic from platform-based selection of tools.",
@@ -421,8 +447,9 @@
                 "last_commit": "2026-02-06T18:27:51Z",
                 "owner": "bazelbuild",
                 "repo": "starlark",
-                "stars": 3075
-              }
+                "stars": 3077
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -437,7 +464,8 @@
                 "owner": "google",
                 "repo": "skylark",
                 "stars": 1181
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -452,7 +480,8 @@
                 "owner": "bazelbuild",
                 "repo": "bazel-skylib",
                 "stars": 444
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -467,7 +496,8 @@
                 "owner": "google",
                 "repo": "starlark-rust",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -478,11 +508,12 @@
                 "archived": false,
                 "id": 425866965,
                 "language": "Starlark",
-                "last_commit": "2026-08-25T14:14:25Z",
+                "last_commit": "2026-08-28T07:50:16Z",
                 "owner": "bazel-contrib",
                 "repo": "bazel-lib",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -497,7 +528,8 @@
                 "owner": "bazelbuild",
                 "repo": "stardoc",
                 "stars": 118
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -512,7 +544,8 @@
                 "owner": "google",
                 "repo": "bazel-common",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -527,7 +560,8 @@
                 "owner": "1set",
                 "repo": "starlet",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -542,7 +576,8 @@
                 "owner": "laurentlb",
                 "repo": "stardbg",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -557,7 +592,8 @@
                 "owner": "useblocks",
                 "repo": "sphinx-bazel",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": "Starlark (formerly called Skylark) is Bazel's domain-specific language for writing BUILD definitions and rules.",
@@ -575,11 +611,12 @@
                 "archived": false,
                 "id": 240583093,
                 "language": "Go",
-                "last_commit": "2026-08-27T14:23:50Z",
+                "last_commit": "2026-08-28T15:38:22Z",
                 "owner": "buildbuddy-io",
                 "repo": "buildbuddy",
                 "stars": 785
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -594,7 +631,8 @@
                 "owner": "buildfarm",
                 "repo": "buildfarm",
                 "stars": 771
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -608,8 +646,9 @@
                 "last_commit": "2026-08-22T20:38:20Z",
                 "owner": "buchgr",
                 "repo": "bazel-remote",
-                "stars": 767
-              }
+                "stars": 768
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -624,7 +663,8 @@
                 "owner": "AsanaArchive",
                 "repo": "bazels3cache",
                 "stars": 81
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": null,
@@ -642,11 +682,12 @@
                 "archived": false,
                 "id": 112655189,
                 "language": "Go",
-                "last_commit": "2026-08-25T11:30:27Z",
+                "last_commit": "2026-08-27T22:55:55Z",
                 "owner": "bazel-contrib",
                 "repo": "bazel-gazelle",
                 "stars": 1415
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -661,7 +702,8 @@
                 "owner": "bazelbuild",
                 "repo": "tulsi",
                 "stars": 542
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -676,7 +718,8 @@
                 "owner": "bazel-xcode",
                 "repo": "xchammer",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -691,7 +734,8 @@
                 "owner": "tmandry",
                 "repo": "lavender",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -706,7 +750,8 @@
                 "owner": "cgrushko",
                 "repo": "tools_jvm_autodeps",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -721,7 +766,8 @@
                 "owner": "bazelbuild",
                 "repo": "BUILD_file_generator",
                 "stars": 41
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -736,7 +782,8 @@
                 "owner": "tuomasr",
                 "repo": "pazel",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -751,7 +798,8 @@
                 "owner": "jin",
                 "repo": "create-bazel-workspace",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -766,7 +814,8 @@
                 "owner": "kythe",
                 "repo": "llvmbzlgen",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -781,7 +830,8 @@
                 "owner": "sammi",
                 "repo": "bazel-to-msbuild",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": "Tools for generating WORKSPACE and BUILD files from source code.",
@@ -802,8 +852,9 @@
                 "last_commit": "2025-08-11T21:33:33Z",
                 "owner": "hedronvision",
                 "repo": "bazel-compile-commands-extractor",
-                "stars": 914
-              }
+                "stars": 915
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -817,8 +868,9 @@
                 "last_commit": "2026-08-20T19:37:11Z",
                 "owner": "georgewfraser",
                 "repo": "java-language-server",
-                "stars": 812
-              }
+                "stars": 813
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -829,11 +881,12 @@
                 "archived": false,
                 "id": 454515423,
                 "language": "Swift",
-                "last_commit": "2026-08-25T21:36:44Z",
+                "last_commit": "2026-08-27T16:47:58Z",
                 "owner": "MobileNativeFoundation",
                 "repo": "rules_xcodeproj",
                 "stars": 625
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -848,7 +901,8 @@
                 "owner": "bazelbuild",
                 "repo": "vim-bazel",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -863,7 +917,8 @@
                 "owner": "sconover",
                 "repo": "rules_intellij_generate",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -878,7 +933,8 @@
                 "owner": "thanetz",
                 "repo": "bazel-for-human-beings",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "group",
@@ -898,7 +954,8 @@
                     "owner": "salesforce",
                     "repo": "bazel-eclipse",
                     "stars": 166
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 },
                 {
                   "node_type": "item",
@@ -913,7 +970,8 @@
                     "owner": "salesforce",
                     "repo": "bazel-ls-eclipse",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 }
               ]
             },
@@ -935,7 +993,8 @@
                     "owner": "codesuki",
                     "repo": "bazel-mode",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 },
                 {
                   "node_type": "item",
@@ -950,7 +1009,8 @@
                     "owner": "brown",
                     "repo": "bazel-mode",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 }
               ]
             },
@@ -968,11 +1028,12 @@
                     "archived": false,
                     "id": 148143775,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T19:52:35Z",
+                    "last_commit": "2026-08-28T05:37:41Z",
                     "owner": "bazel-contrib",
                     "repo": "vscode-bazel",
                     "stars": 294
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 },
                 {
                   "node_type": "item",
@@ -987,7 +1048,8 @@
                     "owner": "stackb",
                     "repo": "bazel-stack-vscode",
                     "stars": 71
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 },
                 {
                   "node_type": "item",
@@ -1002,7 +1064,8 @@
                     "owner": "salesforce",
                     "repo": "bazel-vscode-java",
                     "stars": 57
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 },
                 {
                   "node_type": "item",
@@ -1017,7 +1080,8 @@
                     "owner": "stackb",
                     "repo": "bazel-stack-vscode-cc",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 }
               ]
             }
@@ -1041,7 +1105,8 @@
                 "owner": "bazel-contrib",
                 "repo": "buildtools",
                 "stars": 1190
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": null,
@@ -1063,7 +1128,8 @@
                 "owner": "bazeltools",
                 "repo": "bazel-deps",
                 "stars": 255
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1078,7 +1144,8 @@
                 "owner": "wix-incubator",
                 "repo": "exodus",
                 "stars": 229
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1093,7 +1160,8 @@
                 "owner": "stripe-archive",
                 "repo": "sbt-bazel",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1108,7 +1176,8 @@
                 "owner": "bazelbuild",
                 "repo": "migration-tooling",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1123,7 +1192,8 @@
                 "owner": "pubref",
                 "repo": "rules_maven",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1138,7 +1208,8 @@
                 "owner": "OrhanKupusoglu",
                 "repo": "bazelize-maven-plugin",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1153,7 +1224,8 @@
                 "owner": "bazelbuild",
                 "repo": "gmaven_rules",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": null,
@@ -1175,7 +1247,8 @@
                 "owner": "salesforce",
                 "repo": "bazel-maven-proxy",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": null,
@@ -1203,7 +1276,8 @@
                 "owner": "bazelbuild",
                 "repo": "proposals",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": null,
@@ -1227,7 +1301,8 @@
                     "owner": "salesforce",
                     "repo": "bazel-mystery",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 },
                 {
                   "node_type": "item",
@@ -1242,7 +1317,8 @@
                     "owner": "sayrer",
                     "repo": "bazel-lesson-1",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 },
                 {
                   "node_type": "item",
@@ -1257,7 +1333,8 @@
                     "owner": "cgbystrom",
                     "repo": "real-world-bazel",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:40:58.686Z"
                 }
               ],
               "description": null,
@@ -1280,11 +1357,12 @@
                 "archived": false,
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-27T14:46:50Z",
+                "last_commit": "2026-08-28T15:33:06Z",
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197726
-              }
+                "stars": 197765
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1295,11 +1373,12 @@
                 "archived": false,
                 "id": 88674404,
                 "language": "Starlark",
-                "last_commit": "2026-08-27T12:34:41Z",
+                "last_commit": "2026-08-28T01:53:31Z",
                 "owner": "GoogleContainerTools",
                 "repo": "distroless",
-                "stars": 23040
-              }
+                "stars": 23041
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1310,11 +1389,12 @@
                 "archived": false,
                 "id": 104231541,
                 "language": "C++",
-                "last_commit": "2026-08-27T14:23:05Z",
+                "last_commit": "2026-08-27T21:55:05Z",
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18104
-              }
+                "stars": 18103
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1329,7 +1409,8 @@
                 "owner": "lucperkins",
                 "repo": "colossus",
                 "stars": 1043
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1344,7 +1425,8 @@
                 "owner": "google",
                 "repo": "startup-os",
                 "stars": 693
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1359,7 +1441,8 @@
                 "owner": "google",
                 "repo": "subpar",
                 "stars": 570
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1374,7 +1457,8 @@
                 "owner": "squzy",
                 "repo": "squzy",
                 "stars": 478
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1389,7 +1473,8 @@
                 "owner": "angular",
                 "repo": "angular-bazel-example",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1404,7 +1489,8 @@
                 "owner": "bazelment",
                 "repo": "trunk",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": "A list of projects built with Bazel:",
@@ -1426,7 +1512,8 @@
                 "owner": "kriscfoster",
                 "repo": "multi-language-bazel-monorepo",
                 "stars": 120
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1441,7 +1528,8 @@
                 "owner": "kastiglione",
                 "repo": "bazel-xcode-demo-swift-driver",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1456,7 +1544,8 @@
                 "owner": "ekhabarov",
                 "repo": "bazel-k8s-envoy",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             },
             {
               "node_type": "item",
@@ -1471,7 +1560,8 @@
                 "owner": "nickdecooman",
                 "repo": "bazel-rust-docker-example",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
             }
           ],
           "description": "Bazel demo projects:",
@@ -1483,7 +1573,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:46:48.954Z",
+    "last_updated": "2026-08-28T15:40:58.686Z",
     "original_repository_info": {
       "archived": false,
       "id": 108140785,
