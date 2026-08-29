@@ -881,7 +881,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 
 ### General
 
-* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,369 | 🐛 1,325 | 🌐 TypeScript | 📅 2026-08-29 - Automate WORKSPACE dependencies updates
+* [renovate](https://github.com/renovatebot/renovate) ⭐ 22,371 | 🐛 1,325 | 🌐 TypeScript | 📅 2026-08-29 - Automate WORKSPACE dependencies updates
 * [bazel-diff](https://github.com/Tinder/bazel-diff) ⭐ 518 | 🐛 4 | 🌐 Kotlin | 📅 2026-08-28 - Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building
 * [bazelbuild/bazel-watcher](https://github.com/bazelbuild/bazel-watcher) ⭐ 512 | 🐛 17 | 🌐 Go | 📅 2026-08-26 - Automatically run Bazel commands when source files change
 * [bazelbuild/sandboxfs](https://github.com/bazelbuild/sandboxfs) ⚠️ Archived - A virtual file system for sandboxing
@@ -895,7 +895,7 @@ Have something to contribute or discuss? [Open a pull request](https://github.co
 * [bazelbuild/bazel-integration-testing](https://github.com/bazelbuild/bazel-integration-testing) ⚠️ Archived - Framework for integration tests that call Bazel
 * [hchauvin/bazel-coverage-report](https://github.com/hchauvin/bazel-coverage-report) ⚠️ Archived - A multi-language coverage report generator for Bazel
 * [JetBrains/teamcity-bazel-plugin](https://github.com/JetBrains/teamcity-bazel-plugin) ⭐ 16 | 🐛 10 | 🌐 Kotlin | 📅 2026-06-22 - TeamCity plugin for Bazel ([blogpost](https://blog.jetbrains.com/teamcity/2018/11/bazel-plugin-for-teamcity/))
-* [gerrit/bazlets](https://github.com/GerritCodeReview/bazlets) ⭐ 14 | 🐛 1 | 🌐 Starlark | 📅 2026-07-19 - Gerrit's re-usable building blocks for Bazel build tool
+* [gerrit/bazlets](https://github.com/GerritCodeReview/bazlets) ⭐ 14 | 🐛 1 | 🌐 Starlark | 📅 2026-08-29 - Gerrit's re-usable building blocks for Bazel build tool
 * [acqio/bazel-arcanist](https://github.com/acqio/bazel-arcanist) ⭐ 9 | 🐛 0 | 🌐 PHP | 📅 2022-03-10 - Integration with Arcanist with `arc test` and `arc lint`
 * [heroku-buildpack-bazel](https://github.com/google/heroku-buildpack-bazel) ⚠️ Archived - Heroku buildpack for Bazel
 * [stackb/bazel-aquery-differ](https://github.com/stackb/bazel-aquery-differ) ⭐ 7 | 🐛 0 | 🌐 Go | 📅 2025-10-14 - View differences between two different aquery invocations.
@@ -1051,9 +1051,9 @@ Tools for generating WORKSPACE and BUILD files from source code.
 
 A list of projects built with Bazel:
 
-* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,768 | 🐛 2,960 | 🌐 C++ | 📅 2026-08-29: Computation using data flow graphs for scalable machine learning.
+* [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) ⭐ 197,766 | 🐛 2,958 | 🌐 C++ | 📅 2026-08-29: Computation using data flow graphs for scalable machine learning.
 * [GoogleCloudPlatform/distroless](https://github.com/GoogleCloudPlatform/distroless) ⭐ 23,042 | 🐛 14 | 🌐 Starlark | 📅 2026-08-28 - Language focused docker images, minus the operating system.
-* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,105 | 🐛 235 | 🌐 C++ | 📅 2026-08-29 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
+* [abseil/abseil-cpp](https://github.com/abseil/abseil-cpp) ⭐ 18,106 | 🐛 235 | 🌐 C++ | 📅 2026-08-29 - OSS collection of C++ code (compliant to C++11) designed to augment the C++ standard library.
 * [lucperkins/colossus](https://github.com/lucperkins/colossus) ⭐ 1,043 | 🐛 1 | 🌐 Starlark | 📅 2022-06-02 - An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more.
 * [google/startup-os](https://github.com/google/startup-os) ⚠️ Archived - Working examples of Google's Open Source tools and Cloud.
 * [google/subpar](https://github.com/google/subpar) ⚠️ Archived - Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.

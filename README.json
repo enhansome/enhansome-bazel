@@ -21,7 +21,7 @@
                 "open_issues": 1325,
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22369,
+                "stars": 22371,
                 "topics": [
                   "azure-devops",
                   "bitbucket",
@@ -376,7 +376,7 @@
                 "id": 76442585,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-07-19T07:51:10Z",
+                "last_commit": "2026-08-29T09:49:49Z",
                 "open_issues": 1,
                 "owner": "GerritCodeReview",
                 "repo": "bazlets",
@@ -2043,11 +2043,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:26:06Z",
-                "open_issues": 2960,
+                "last_commit": "2026-08-29T09:46:49Z",
+                "open_issues": 2958,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197768,
+                "stars": 197766,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -2101,7 +2101,7 @@
                 "open_issues": 235,
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18105,
+                "stars": 18106,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -2399,7 +2399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:31:41.114Z",
+    "last_updated": "2026-08-29T10:25:57.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Bazel rules, tooling and resources.",
