@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io",
+                "homepage": "https://mend.io/renovate",
                 "id": 76734068,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T12:57:23Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T00:36:05Z",
+                "open_issues": 1325,
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22366
+                "stars": 22369,
+                "topics": [
+                  "azure-devops",
+                  "bitbucket",
+                  "dependencies",
+                  "dependencies-checking",
+                  "dependency-manager",
+                  "github",
+                  "gitlab",
+                  "npm",
+                  "package-management"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -28,12 +43,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Performs Bazel Target Diffing between two revisions in Git, allowing for Test Target Selection and Selective Building",
+                "homepage": null,
                 "id": 295491525,
                 "language": "Kotlin",
-                "last_commit": "2026-08-28T15:23:10Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T17:24:29Z",
+                "open_issues": 4,
                 "owner": "Tinder",
                 "repo": "bazel-diff",
-                "stars": 518
+                "stars": 518,
+                "topics": [
+                  "bazel",
+                  "target-selection",
+                  "test-selection"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -44,12 +68,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for building Bazel targets when source files change.",
+                "homepage": null,
                 "id": 91018552,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T00:57:49Z",
+                "open_issues": 17,
                 "owner": "bazelbuild",
                 "repo": "bazel-watcher",
-                "stars": 512
+                "stars": 512,
+                "topics": [
+                  "bazel",
+                  "build",
+                  "fast"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -60,12 +93,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A virtual file system for sandboxing",
+                "homepage": null,
                 "id": 101425662,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-16T19:33:45Z",
+                "open_issues": 14,
                 "owner": "bazelbuild",
                 "repo": "sandboxfs",
-                "stars": 404
+                "stars": 404,
+                "topics": [
+                  "bazel",
+                  "filesystem",
+                  "fuse-filesystem",
+                  "golang",
+                  "sandboxing"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -76,12 +120,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run Google's bazel inside a docker container via a seamless proxy.",
+                "homepage": null,
                 "id": 53360812,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-06-30T07:57:19Z",
+                "open_issues": 24,
                 "owner": "nadirizr",
                 "repo": "dazel",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -92,12 +141,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools for dealing with very large Bazel-managed repositories",
+                "homepage": null,
                 "id": 110121462,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-20T18:53:12Z",
+                "open_issues": 2,
                 "owner": "spotify",
                 "repo": "bazel-tools",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "bazel-rules",
+                  "build-tool"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -108,12 +165,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bazel rules for assembling and deploying software distributions (see @typedb for usage example)",
+                "homepage": "https://bazel.build",
                 "id": 159188705,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T09:09:05Z",
+                "open_issues": 37,
                 "owner": "typedb",
                 "repo": "bazel-distribution",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "apt",
+                  "apt-get",
+                  "bazel",
+                  "bazel-rules",
+                  "build",
+                  "build-tool",
+                  "debian",
+                  "deployment",
+                  "distribution",
+                  "java",
+                  "nodejs",
+                  "package",
+                  "package-manager",
+                  "python",
+                  "rpm",
+                  "typedb",
+                  "typeql",
+                  "vaticle",
+                  "yum"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -124,12 +206,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reusable bits for Bazel",
+                "homepage": null,
                 "id": 137342249,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2021-02-27T20:10:06Z",
+                "open_issues": 5,
                 "owner": "atlassian",
                 "repo": "bazel-tools",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "bazel",
+                  "bazel-rules",
+                  "buildozer",
+                  "goimports"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -140,12 +232,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Hermetic meta-formatter to format code in most languages",
+                "homepage": null,
                 "id": 528982565,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-20T11:53:08Z",
+                "open_issues": 0,
                 "owner": "aspect-archives",
                 "repo": "bazel-super-formatter",
-                "stars": 53
+                "stars": 53,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -156,12 +253,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bzl - Integrated CLI + UI + VSCode Extension for Bazel",
+                "homepage": "https://docs.bzl.io",
                 "id": 110493800,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-04-12T05:34:14Z",
+                "open_issues": 19,
                 "owner": "bzl-io",
                 "repo": "bzl",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "bazel",
+                  "build",
+                  "bzl",
+                  "ui",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -172,12 +280,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "TypeScript compiler that knows how to run as a Bazel \"persistent worker\"",
+                "homepage": null,
                 "id": 88675779,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2023-04-07T08:12:52Z",
+                "open_issues": 3,
                 "owner": "AsanaArchive",
                 "repo": "bazeltsc",
-                "stars": 38
+                "stars": 38,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -188,12 +301,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Framework for integration tests that call Bazel",
+                "homepage": null,
                 "id": 105262089,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-17T19:24:13Z",
+                "open_issues": 22,
                 "owner": "bazelbuild",
                 "repo": "bazel-integration-testing",
-                "stars": 34
+                "stars": 34,
+                "topics": [
+                  "bazel",
+                  "test-framework"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -204,12 +325,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "**NOT MAINTAINED** A multi-language coverage report generator for Bazel",
+                "homepage": "https://hchauvin.github.io/bazel-coverage-report/index.html",
                 "id": 129957189,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2020-03-05T08:11:18Z",
+                "open_issues": 6,
                 "owner": "hchauvin",
                 "repo": "bazel-coverage-report",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -220,12 +346,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TeamCity plugin for Bazel build system",
+                "homepage": null,
                 "id": 143697750,
                 "language": "Kotlin",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T14:44:17Z",
+                "open_issues": 10,
                 "owner": "JetBrains",
                 "repo": "teamcity-bazel-plugin",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "bazel",
+                  "teamcity",
+                  "teamcity-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -236,12 +371,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Re-usable building blocks for Bazel build tool  - (mirror of https://gerrit.googlesource.com/./bazlets)",
+                "homepage": "https://gerrit.googlesource.com/./bazlets",
                 "id": 76442585,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-19T07:51:10Z",
+                "open_issues": 1,
                 "owner": "GerritCodeReview",
                 "repo": "bazlets",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -252,12 +392,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Unit test engine and linter for Bazel",
+                "homepage": null,
                 "id": 138342502,
                 "language": "PHP",
+                "license": null,
                 "last_commit": "2022-03-10T15:26:28Z",
+                "open_issues": 0,
                 "owner": "acqio",
                 "repo": "bazel-arcanist",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -268,12 +413,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 66101151,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-16T02:46:21Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "heroku-buildpack-bazel",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -284,12 +434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bazel aquery differ tool",
+                "homepage": null,
                 "id": 581387339,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-14T20:53:04Z",
+                "open_issues": 0,
                 "owner": "stackb",
                 "repo": "bazel_difftools",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -300,12 +455,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A user-friendly launcher for Bazel.",
+                "homepage": null,
                 "id": 660845186,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-23T04:02:33Z",
+                "open_issues": 0,
                 "owner": "philwo",
                 "repo": "bazelisk",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -323,12 +483,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLVM toolchain for bazel",
+                "homepage": null,
                 "id": 133101528,
                 "language": "Starlark",
-                "last_commit": "2026-08-25T22:42:21Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:04:29Z",
+                "open_issues": 65,
                 "owner": "bazel-contrib",
                 "repo": "toolchains_llvm",
-                "stars": 370
+                "stars": 370,
+                "topics": [
+                  "bazel",
+                  "clang",
+                  "llvm-toolchain",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -339,12 +509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Repository that hosts Bazel toolchain configs for remote execution and related support tools.",
+                "homepage": null,
                 "id": 95790423,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T14:32:44Z",
+                "open_issues": 49,
                 "owner": "bazelbuild",
                 "repo": "bazel-toolchains",
-                "stars": 203
+                "stars": 203,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -355,12 +530,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ARM embedded toolchains for Bazel",
+                "homepage": "https://asnaghi.me/post/embedded-bazel/",
                 "id": 266398332,
                 "language": "Starlark",
+                "license": "MIT",
                 "last_commit": "2026-07-30T04:05:49Z",
+                "open_issues": 14,
                 "owner": "hexdae",
                 "repo": "toolchains_arm_gnu",
-                "stars": 141
+                "stars": 141,
+                "topics": [
+                  "arm",
+                  "bazel",
+                  "embedded",
+                  "gcc",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -371,12 +557,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A fully-hermetic Bazel GCC toolchain for Linux.",
+                "homepage": null,
                 "id": 470343777,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-11T21:26:41Z",
+                "open_issues": 17,
                 "owner": "f0rmiga",
                 "repo": "gcc-toolchain",
-                "stars": 137
+                "stars": 137,
+                "topics": [
+                  "aarch64",
+                  "armv7",
+                  "bazel",
+                  "bazel-rules",
+                  "c",
+                  "cpp",
+                  "fortran",
+                  "gcc",
+                  "linux",
+                  "rbe",
+                  "x86-64"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -387,12 +590,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for embedded/bare-metal development using bazel",
+                "homepage": "https://www.nb.rough.run/tags/bazel/",
                 "id": 222221762,
                 "language": "Starlark",
+                "license": "MIT",
                 "last_commit": "2024-04-25T04:19:00Z",
+                "open_issues": 18,
                 "owner": "bazelembedded",
                 "repo": "bazel-embedded",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "arm",
+                  "bare-metal",
+                  "bazel",
+                  "bazel-toolchain",
+                  "cortex-m",
+                  "embedded"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -403,12 +618,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of Bazel C++ build infrastructure based on Chromium's LLVM toolchain.",
+                "homepage": null,
                 "id": 97660454,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-14T18:12:29Z",
+                "open_issues": 1,
                 "owner": "vsco",
                 "repo": "bazel-toolchains",
-                "stars": 35
+                "stars": 35,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -419,12 +639,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RISC-V bazel toolchains for GCC compilation",
+                "homepage": null,
                 "id": 594623607,
                 "language": "Starlark",
+                "license": "MIT",
                 "last_commit": "2024-04-05T21:48:19Z",
+                "open_issues": 3,
                 "owner": "hexdae",
                 "repo": "toolchains_riscv_gnu",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "bare-metal",
+                  "bazel",
+                  "gcc",
+                  "riscv",
+                  "toolchain"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -442,12 +673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Starlark Language",
+                "homepage": null,
                 "id": 145010913,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-06T18:27:51Z",
+                "open_issues": 97,
                 "owner": "bazelbuild",
                 "repo": "starlark",
-                "stars": 3077
+                "stars": 3076,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -458,12 +694,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Skylark in Go: the Skylark configuration language, implemented in Go [MOVED to go.starlark.net]",
+                "homepage": null,
                 "id": 105541516,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-03-12T20:37:43Z",
+                "open_issues": 6,
                 "owner": "google",
                 "repo": "skylark",
-                "stars": 1181
+                "stars": 1181,
+                "topics": [
+                  "go",
+                  "language",
+                  "python",
+                  "skylark"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -474,12 +720,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common useful functions and rules for Bazel",
+                "homepage": "https://bazel.build/",
                 "id": 106432039,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-29T11:29:49Z",
+                "open_issues": 140,
                 "owner": "bazelbuild",
                 "repo": "bazel-skylib",
-                "stars": 444
+                "stars": 444,
+                "topics": [
+                  "bazel",
+                  "bazel-rules",
+                  "starlark"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -490,12 +745,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Starlark (https://github.com/bazelbuild/starlark) in Rust",
+                "homepage": null,
                 "id": 150627937,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-30T15:56:32Z",
+                "open_issues": 0,
                 "owner": "google",
                 "repo": "starlark-rust",
-                "stars": 191
+                "stars": 191,
+                "topics": [
+                  "bazel",
+                  "rust",
+                  "rust-lang",
+                  "skylark"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -506,12 +771,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common useful functions for writing BUILD files and Starlark macros/rules",
+                "homepage": "https://registry.bazel.build/docs/bazel_lib",
                 "id": 425866965,
                 "language": "Starlark",
-                "last_commit": "2026-08-28T07:50:16Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:06:28Z",
+                "open_issues": 77,
                 "owner": "bazel-contrib",
                 "repo": "bazel-lib",
-                "stars": 182
+                "stars": 182,
+                "topics": [
+                  "aspect-build",
+                  "bazel",
+                  "bazel-rules"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -522,12 +796,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stardoc: Starlark Documentation Generator",
+                "homepage": null,
                 "id": 207820413,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-23T17:13:12Z",
+                "open_issues": 60,
                 "owner": "bazelbuild",
                 "repo": "stardoc",
-                "stars": 118
+                "stars": 118,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -538,12 +817,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Common functionality for some Google open-source libraries that are built with Bazel",
+                "homepage": null,
                 "id": 123311177,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T16:33:11Z",
+                "open_issues": 19,
                 "owner": "google",
                 "repo": "bazel-common",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -554,12 +838,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "✨ Yet another Go wrapper for Starlark that simplifies usage, offers data conversion and useful Starlark libraries",
+                "homepage": null,
                 "id": 643249613,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-07-13T14:25:03Z",
+                "open_issues": 2,
                 "owner": "1set",
                 "repo": "starlet",
-                "stars": 48
+                "stars": 48,
+                "topics": [
+                  "go",
+                  "golang",
+                  "script",
+                  "scripting",
+                  "scripting-language",
+                  "starlark",
+                  "starlark-go",
+                  "starlark-lang",
+                  "starlark-language",
+                  "starlarky",
+                  "starlet"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -570,12 +871,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A standalone debugger for Starlark",
+                "homepage": null,
                 "id": 277348355,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-07-10T16:45:08Z",
+                "open_issues": 0,
                 "owner": "laurentlb",
                 "repo": "stardbg",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -586,12 +892,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sphinx extension to read bazel files",
+                "homepage": "http://sphinx-bazel.readthedocs.io/en/latest/",
                 "id": 171243259,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-21T17:00:31Z",
+                "open_issues": 16,
                 "owner": "useblocks",
                 "repo": "sphinx-bazel",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -609,12 +920,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BuildBuddy is an open source Bazel build event viewer, result store, remote cache, and remote build execution platform.",
+                "homepage": "https://buildbuddy.io",
                 "id": 240583093,
                 "language": "Go",
-                "last_commit": "2026-08-28T15:38:22Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:29:39Z",
+                "open_issues": 233,
                 "owner": "buildbuddy-io",
                 "repo": "buildbuddy",
-                "stars": 785
+                "stars": 785,
+                "topics": [
+                  "bazel",
+                  "build",
+                  "build-tools",
+                  "cache",
+                  "golang",
+                  "grpc",
+                  "kubernetes",
+                  "protobuf",
+                  "react",
+                  "remote-caching",
+                  "remote-execution",
+                  "results-viewer",
+                  "test",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -625,12 +956,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bazel remote caching and execution service",
+                "homepage": "https://buildfarm.github.io/buildfarm/",
                 "id": 96434626,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T19:39:05Z",
+                "open_issues": 176,
                 "owner": "buildfarm",
                 "repo": "buildfarm",
-                "stars": 771
+                "stars": 771,
+                "topics": [
+                  "bazel",
+                  "caching",
+                  "remote-execution"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -641,12 +981,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A remote cache for Bazel",
+                "homepage": "https://bazel.build",
                 "id": 101615462,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-22T20:38:20Z",
+                "open_issues": 82,
                 "owner": "buchgr",
                 "repo": "bazel-remote",
-                "stars": 768
+                "stars": 768,
+                "topics": [
+                  "bazel",
+                  "build",
+                  "build-tool",
+                  "caching",
+                  "continous-integration",
+                  "docker-container",
+                  "goma",
+                  "remote-caching"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -657,12 +1011,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Small web server for a Bazel cache, proxies to S3; allows Bazel to work offline; async uploads to make Bazel faster",
+                "homepage": null,
                 "id": 110285544,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2022-12-07T18:20:13Z",
+                "open_issues": 9,
                 "owner": "AsanaArchive",
                 "repo": "bazels3cache",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -680,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gazelle is a Bazel build file generator for Bazel projects. It natively supports Go and protobuf, and it may be extended to support new languages and custom rule sets.",
+                "homepage": null,
                 "id": 112655189,
                 "language": "Go",
-                "last_commit": "2026-08-27T22:55:55Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T00:00:21Z",
+                "open_issues": 461,
                 "owner": "bazel-contrib",
                 "repo": "bazel-gazelle",
-                "stars": 1415
+                "stars": 1415,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -696,12 +1060,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An Xcode Project Generator For Bazel ",
+                "homepage": "http://tulsi.bazel.build",
                 "id": 60276467,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2023-02-15T17:11:59Z",
+                "open_issues": 0,
                 "owner": "bazelbuild",
                 "repo": "tulsi",
-                "stars": 542
+                "stars": 542,
+                "topics": [
+                  "bazel",
+                  "build-tool",
+                  "ide",
+                  "ios",
+                  "macos",
+                  "xcode",
+                  "xcode-plugin"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -712,12 +1089,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XCHammer generates Xcode projects from a Bazel Workspace.",
+                "homepage": null,
                 "id": 125090058,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-03T18:57:19Z",
+                "open_issues": 57,
                 "owner": "bazel-xcode",
                 "repo": "xchammer",
-                "stars": 314
+                "stars": 314,
+                "topics": [
+                  "bazel",
+                  "ios",
+                  "xcode"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -728,12 +1114,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate Visual Studio projects for Bazel (experimental)",
+                "homepage": null,
                 "id": 123317165,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-05-23T14:13:37Z",
+                "open_issues": 14,
                 "owner": "tmandry",
                 "repo": "lavender",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "bazel",
+                  "visual-studio"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -744,12 +1138,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic Dependency Management Tools for JVM Languages",
+                "homepage": null,
                 "id": 126338656,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-30T13:39:21Z",
+                "open_issues": 14,
                 "owner": "cgrushko",
                 "repo": "tools_jvm_autodeps",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "bazel",
+                  "dependencies",
+                  "deps",
+                  "java",
+                  "jvm"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -760,12 +1165,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Generate BUILD files for your Java files",
+                "homepage": null,
                 "id": 103604931,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-04T11:54:51Z",
+                "open_issues": 16,
                 "owner": "bazelbuild",
                 "repo": "BUILD_file_generator",
-                "stars": 41
+                "stars": 41,
+                "topics": [
+                  "bazel",
+                  "build-tool",
+                  "dependencies",
+                  "java",
+                  "migration-tool"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -776,12 +1192,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pazel - generate Bazel BUILD files for Python",
+                "homepage": null,
                 "id": 128809192,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-06T04:30:15Z",
+                "open_issues": 10,
                 "owner": "tuomasr",
                 "repo": "pazel",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "bazel",
+                  "code-generation",
+                  "programmable",
+                  "python",
+                  "python-script"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -792,12 +1219,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate a new polyglot Bazel workspace with minimal configuration",
+                "homepage": null,
                 "id": 136536142,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-07-29T06:38:14Z",
+                "open_issues": 1,
                 "owner": "jin",
                 "repo": "create-bazel-workspace",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "bazel",
+                  "build-system",
+                  "multi-language",
+                  "polyglot"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -808,12 +1245,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools for generating Bazel BUILD targets from LLVM CMakeLists",
+                "homepage": null,
                 "id": 168775049,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-05-14T23:25:51Z",
+                "open_issues": 1,
                 "owner": "kythe",
                 "repo": "llvmbzlgen",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -824,12 +1266,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate visual studio solution from a bazel workspace.",
+                "homepage": null,
                 "id": 325714149,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2022-01-19T22:02:30Z",
+                "open_issues": 1,
                 "owner": "sammi",
                 "repo": "bazel-to-msbuild",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "bazel",
+                  "msbuild",
+                  "visualstudio"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -847,12 +1298,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Goal: Enable awesome tooling for Bazel users of the C language family.",
+                "homepage": null,
                 "id": 420326919,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-08-11T21:33:33Z",
+                "open_issues": 100,
                 "owner": "hedronvision",
                 "repo": "bazel-compile-commands-extractor",
-                "stars": 915
+                "stars": 915,
+                "topics": [
+                  "bazel",
+                  "bazel-build",
+                  "c",
+                  "ccls",
+                  "clang",
+                  "clang-tidy",
+                  "clang-tooling",
+                  "clangd",
+                  "contributions-welcome",
+                  "cpp",
+                  "cross-platform",
+                  "cuda",
+                  "hacktoberfest",
+                  "objective-c",
+                  "objective-c-plus-plus",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -863,12 +1336,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java language server using the Java compiler API",
+                "homepage": null,
                 "id": 53765018,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-08-20T19:37:11Z",
+                "open_issues": 117,
                 "owner": "georgewfraser",
                 "repo": "java-language-server",
-                "stars": 813
+                "stars": 813,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -879,12 +1357,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bazel rules for generating Xcode projects.",
+                "homepage": null,
                 "id": 454515423,
                 "language": "Swift",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:47:58Z",
+                "open_issues": 150,
                 "owner": "MobileNativeFoundation",
                 "repo": "rules_xcodeproj",
-                "stars": 625
+                "stars": 625,
+                "topics": [
+                  "bazel",
+                  "bazel-rules",
+                  "ios",
+                  "macos",
+                  "swift",
+                  "tvos",
+                  "visionos",
+                  "watchos",
+                  "xcode",
+                  "xcodeproj"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -895,12 +1389,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Vim support for Bazel",
+                "homepage": null,
                 "id": 76501871,
                 "language": "Vim script",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-09T06:20:55Z",
+                "open_issues": 5,
                 "owner": "bazelbuild",
                 "repo": "vim-bazel",
-                "stars": 155
+                "stars": 155,
+                "topics": [
+                  "bazel",
+                  "vim"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -911,12 +1413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[alpha] plugin-less bazel/intellij integration",
+                "homepage": null,
                 "id": 107368446,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-07T02:43:52Z",
+                "open_issues": 4,
                 "owner": "sconover",
                 "repo": "rules_intellij_generate",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -927,12 +1434,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bazel lightweight plugin for PyCharm",
+                "homepage": null,
                 "id": 149871931,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-02-15T10:19:06Z",
+                "open_issues": 0,
                 "owner": "thanetz",
                 "repo": "bazel-for-human-beings",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -948,12 +1460,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "This repo holds two IDE projects. One is the Eclipse Feature for developing Bazel projects in Eclipse. The Bazel Eclipse Feature supports importing, building, and testing Java projects that are built using the Bazel build system. The other is the Bazel Java Language Server, which is a build integration for IDEs such as VS Code.",
+                    "homepage": null,
                     "id": 204984671,
                     "language": "Java",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-06-02T18:06:20Z",
+                    "open_issues": 4,
                     "owner": "salesforce",
                     "repo": "bazel-eclipse",
-                    "stars": 166
+                    "stars": 166,
+                    "topics": [
+                      "bazel",
+                      "eclipse",
+                      "eclipse-ide",
+                      "java",
+                      "languageserverprotocol",
+                      "vscode-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 },
@@ -964,12 +1488,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "POC of a Java-only language server for Bazel",
+                    "homepage": null,
                     "id": 239556677,
                     "language": "Java",
+                    "license": null,
                     "last_commit": "2022-02-12T14:36:36Z",
+                    "open_issues": 20,
                     "owner": "salesforce",
                     "repo": "bazel-ls-eclipse",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 }
@@ -987,12 +1516,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Basic Bazel support for Emacs",
+                    "homepage": null,
                     "id": 114966772,
                     "language": "Emacs Lisp",
+                    "license": "MIT",
                     "last_commit": "2019-11-10T22:28:45Z",
+                    "open_issues": 1,
                     "owner": "codesuki",
                     "repo": "bazel-mode",
-                    "stars": 16
+                    "stars": 16,
+                    "topics": [
+                      "bazel",
+                      "bazel-mode",
+                      "bazel-support",
+                      "emacs",
+                      "skylark",
+                      "workspace"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 },
@@ -1003,12 +1544,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "GNU Emacs mode for editing Bazel BUILD files",
+                    "homepage": null,
                     "id": 128703948,
                     "language": "Emacs Lisp",
+                    "license": "GPL-3.0",
                     "last_commit": "2021-04-13T01:04:02Z",
+                    "open_issues": 0,
                     "owner": "brown",
                     "repo": "bazel-mode",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 }
@@ -1026,12 +1572,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bazel support for Visual Studio Code",
+                    "homepage": "https://marketplace.visualstudio.com/items?itemName=BazelBuild.vscode-bazel",
                     "id": 148143775,
                     "language": "TypeScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T05:37:41Z",
+                    "open_issues": 85,
                     "owner": "bazel-contrib",
                     "repo": "vscode-bazel",
-                    "stars": 294
+                    "stars": 294,
+                    "topics": [
+                      "bazel",
+                      "visual-studio-code"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 },
@@ -1042,12 +1596,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "VSCode Extension for Bazel",
+                    "homepage": "https://docs.stack.build",
                     "id": 280938635,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2023-08-07T01:19:54Z",
+                    "open_issues": 21,
                     "owner": "stackb",
                     "repo": "bazel-stack-vscode",
-                    "stars": 71
+                    "stars": 71,
+                    "topics": [
+                      "bazel",
+                      "build-events",
+                      "debugger",
+                      "visual-studio-code",
+                      "vscode",
+                      "vscode-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 },
@@ -1058,12 +1624,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "Bazel Java development extension for VS Code",
+                    "homepage": null,
                     "id": 239556704,
                     "language": "TypeScript",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-06-02T18:07:07Z",
+                    "open_issues": 28,
                     "owner": "salesforce",
                     "repo": "bazel-vscode-java",
-                    "stars": 57
+                    "stars": 57,
+                    "topics": [
+                      "bazel",
+                      "java",
+                      "vscode-extension"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 },
@@ -1074,12 +1649,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "C/C++ Support For Bazel Stack VSCode Extension",
+                    "homepage": null,
                     "id": 301879648,
                     "language": "Starlark",
+                    "license": "Apache-2.0",
                     "last_commit": "2022-12-29T14:56:28Z",
+                    "open_issues": 6,
                     "owner": "stackb",
                     "repo": "bazel-stack-vscode-cc",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 }
@@ -1099,12 +1679,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A bazel BUILD file formatter and editor",
+                "homepage": null,
                 "id": 60805080,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T22:13:25Z",
+                "open_issues": 120,
                 "owner": "bazel-contrib",
                 "repo": "buildtools",
-                "stars": 1190
+                "stars": 1190,
+                "topics": [
+                  "bazel",
+                  "build-tool",
+                  "formatter"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -1122,12 +1711,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generate bazel dependencies for maven artifacts ",
+                "homepage": null,
                 "id": 61169687,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2025-12-15T18:10:54Z",
+                "open_issues": 107,
                 "owner": "bazeltools",
                 "repo": "bazel-deps",
-                "stars": 255
+                "stars": 255,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1138,12 +1732,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easily migrate your JVM code from Maven to Bazel",
+                "homepage": null,
                 "id": 180591396,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2023-09-18T19:21:05Z",
+                "open_issues": 17,
                 "owner": "wix-incubator",
                 "repo": "exodus",
-                "stars": 229
+                "stars": 229,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1154,12 +1753,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Easily convert SBT projects to Bazel workspaces",
+                "homepage": null,
                 "id": 137815538,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2019-08-05T16:41:28Z",
+                "open_issues": 8,
                 "owner": "stripe-archive",
                 "repo": "sbt-bazel",
-                "stars": 53
+                "stars": 53,
+                "topics": [
+                  "bazel",
+                  "sbt",
+                  "sbt-plugin",
+                  "scala"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1170,12 +1779,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Migration tools for Bazel",
+                "homepage": null,
                 "id": 93647440,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2019-01-30T13:22:25Z",
+                "open_issues": 43,
                 "owner": "bazelbuild",
                 "repo": "migration-tooling",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "bazel",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1186,12 +1803,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Transitive maven dependencies with Bazel.",
+                "homepage": null,
                 "id": 75999290,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2019-04-13T20:03:08Z",
+                "open_issues": 5,
                 "owner": "pubref",
                 "repo": "rules_maven",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "bazel",
+                  "gradle",
+                  "java",
+                  "maven",
+                  "transitive-closure"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1202,12 +1830,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Maven plugin for migration from Apache Maven to Google Bazel",
+                "homepage": null,
                 "id": 139044101,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-28T19:14:41Z",
+                "open_issues": 3,
                 "owner": "OrhanKupusoglu",
                 "repo": "bazelize-maven-plugin",
-                "stars": 17
+                "stars": 17,
+                "topics": [
+                  "apache-maven",
+                  "bazel",
+                  "bazelize",
+                  "google-bazel",
+                  "maven",
+                  "migration",
+                  "migrator"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1218,12 +1859,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository is deprecated. Please instead use https://github.com/bazelbuild/rules_jvm_external",
+                "homepage": null,
                 "id": 175471286,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-03-13T17:56:49Z",
+                "open_issues": 0,
                 "owner": "bazelbuild",
                 "repo": "gmaven_rules",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -1241,12 +1887,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A local (read-only) proxy for Bazel to access Maven resources behind a secure repository or from the local Maven repository",
+                "homepage": null,
                 "id": 185188267,
                 "language": "Java",
+                "license": "EPL-2.0",
                 "last_commit": "2026-06-02T18:05:11Z",
+                "open_issues": 2,
                 "owner": "salesforce",
                 "repo": "bazel-maven-proxy",
-                "stars": 24
+                "stars": 24,
+                "topics": [
+                  "bazel",
+                  "bazel-deps",
+                  "bazel-rules",
+                  "maven"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -1270,12 +1926,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Index of all Bazel proposals and design documents",
+                "homepage": null,
                 "id": 140339230,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-24T08:33:18Z",
+                "open_issues": 10,
                 "owner": "bazelbuild",
                 "repo": "proposals",
-                "stars": 136
+                "stars": 136,
+                "topics": [
+                  "bazel",
+                  "design-documents",
+                  "proposals"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -1295,12 +1960,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An interactive way to learn bazel.",
+                    "homepage": null,
                     "id": 510785784,
                     "language": "Starlark",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-07-23T14:14:19Z",
+                    "open_issues": 1,
                     "owner": "salesforce",
                     "repo": "bazel-mystery",
-                    "stars": 69
+                    "stars": 69,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 },
@@ -1311,12 +1981,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bazel Lesson 1",
+                    "homepage": null,
                     "id": 183086606,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2019-05-25T20:16:47Z",
+                    "open_issues": 0,
                     "owner": "sayrer",
                     "repo": "bazel-lesson-1",
-                    "stars": 36
+                    "stars": 36,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 },
@@ -1327,12 +2002,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bazel build files collected from real-world GitHub projects",
+                    "homepage": null,
                     "id": 140623574,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2018-12-29T19:15:34Z",
+                    "open_issues": 0,
                     "owner": "cgbystrom",
                     "repo": "real-world-bazel",
-                    "stars": 33
+                    "stars": 33,
+                    "topics": [
+                      "bazel",
+                      "build"
+                    ]
                   },
                   "first_seen": "2026-08-28T15:40:58.686Z"
                 }
@@ -1355,12 +2038,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Open Source Machine Learning Framework for Everyone",
+                "homepage": "https://tensorflow.org",
                 "id": 45717250,
                 "language": "C++",
-                "last_commit": "2026-08-28T15:33:06Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:26:06Z",
+                "open_issues": 2960,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 197765
+                "stars": 197768,
+                "topics": [
+                  "deep-learning",
+                  "deep-neural-networks",
+                  "distributed",
+                  "machine-learning",
+                  "ml",
+                  "neural-network",
+                  "python",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1371,12 +2068,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🥑  Language focused docker images, minus the operating system.  ",
+                "homepage": null,
                 "id": 88674404,
                 "language": "Starlark",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T01:53:31Z",
+                "open_issues": 14,
                 "owner": "GoogleContainerTools",
                 "repo": "distroless",
-                "stars": 23041
+                "stars": 23042,
+                "topics": [
+                  "bazel",
+                  "docker"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1387,12 +2092,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Abseil Common Libraries (C++)",
+                "homepage": "https://abseil.io",
                 "id": 104231541,
                 "language": "C++",
-                "last_commit": "2026-08-27T21:55:05Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:21:03Z",
+                "open_issues": 235,
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18103
+                "stars": 18105,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1403,12 +2113,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Colossus — An example microservice architecture for Kubernetes using Bazel, Go, Java, Docker, Kubernetes, Minikube, Gazelle, gRPC, Prometheus, Grafana, and more",
+                "homepage": "https://github.com/lucperkins/colossus",
                 "id": 135078893,
                 "language": "Starlark",
+                "license": "MIT",
                 "last_commit": "2022-06-02T18:12:42Z",
+                "open_issues": 1,
                 "owner": "lucperkins",
                 "repo": "colossus",
-                "stars": 1043
+                "stars": 1043,
+                "topics": [
+                  "bazel",
+                  "docker",
+                  "go",
+                  "golang",
+                  "grpc",
+                  "grpc-go",
+                  "grpc-java",
+                  "java",
+                  "kubectl",
+                  "kubernetes",
+                  "minikube"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1419,12 +2146,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Working examples of Google's Open Source stack and deployment to the cloud.",
+                "homepage": null,
                 "id": 122602787,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-05T20:27:56Z",
+                "open_issues": 46,
                 "owner": "google",
                 "repo": "startup-os",
-                "stars": 693
+                "stars": 693,
+                "topics": [
+                  "bazel",
+                  "cpp",
+                  "dagger",
+                  "firebase",
+                  "firestore",
+                  "grpc",
+                  "grpc-java",
+                  "java",
+                  "protocol-buffers"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1435,12 +2177,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.",
+                "homepage": null,
                 "id": 64876050,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-27T14:53:53Z",
+                "open_issues": 44,
                 "owner": "google",
                 "repo": "subpar",
-                "stars": 570
+                "stars": 570,
+                "topics": [
+                  "bazel",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1451,12 +2201,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love. Welcome to free SRE",
+                "homepage": "https://demo.squzy.app/",
                 "id": 219348932,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-21T07:40:27Z",
+                "open_issues": 15,
                 "owner": "squzy",
                 "repo": "squzy",
-                "stars": 478
+                "stars": 478,
+                "topics": [
+                  "bazel",
+                  "docker",
+                  "golang",
+                  "grpc",
+                  "monitoring",
+                  "opensource",
+                  "opensource-monitoring",
+                  "prometheus",
+                  "sitemap",
+                  "sre",
+                  "zabbix"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1467,12 +2234,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "MOVED to the bazel nodejs monorepo  👉",
+                "homepage": "https://github.com/bazelbuild/rules_nodejs/tree/master/examples/angular",
                 "id": 97881987,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2019-09-12T22:21:57Z",
+                "open_issues": 0,
                 "owner": "angular",
                 "repo": "angular-bazel-example",
-                "stars": 344
+                "stars": 344,
+                "topics": [
+                  "angular",
+                  "bazel",
+                  "build",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1483,12 +2260,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Make bazel an out of box solution for C++/Java developers",
+                "homepage": null,
                 "id": 32895012,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-15T00:30:30Z",
+                "open_issues": 14,
                 "owner": "bazelment",
                 "repo": "trunk",
-                "stars": 242
+                "stars": 242,
+                "topics": [
+                  "bazel",
+                  "folly",
+                  "grpc",
+                  "netty"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -1506,12 +2293,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experimenting with bazel & multiple languages in a monorepo.",
+                "homepage": null,
                 "id": 439648566,
                 "language": "Starlark",
+                "license": null,
                 "last_commit": "2023-10-06T14:05:12Z",
+                "open_issues": 0,
                 "owner": "kriscfoster",
                 "repo": "multi-language-bazel-monorepo",
-                "stars": 120
+                "stars": 120,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1522,12 +2314,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Bazel+Xcode Demo of apple/swift-driver: Swift compiler driver reimplementation in Swift",
+                "homepage": null,
                 "id": 227497984,
                 "language": "Swift",
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-30T05:51:51Z",
+                "open_issues": 0,
                 "owner": "kastiglione",
                 "repo": "bazel-xcode-demo-swift-driver",
-                "stars": 56
+                "stars": 56,
+                "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1538,12 +2335,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demo: build gRPC micoservices with Bazel and deploy them to k8s",
+                "homepage": "https://ekhabarov.com/envoy",
                 "id": 457133004,
                 "language": "Starlark",
+                "license": "MIT",
                 "last_commit": "2026-01-15T05:18:25Z",
+                "open_issues": 0,
                 "owner": "ekhabarov",
                 "repo": "bazel-k8s-envoy",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "bazel",
+                  "build",
+                  "envoy",
+                  "envoyproxy",
+                  "go",
+                  "golang",
+                  "grpc",
+                  "k8s",
+                  "kubernetes",
+                  "microservices"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             },
@@ -1554,12 +2367,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Demonstrating Bazel setup for Rust services with Cargo and Docker support.",
+                "homepage": null,
                 "id": 454540679,
                 "language": "Starlark",
+                "license": "MIT",
                 "last_commit": "2022-02-10T07:46:48Z",
+                "open_issues": 1,
                 "owner": "nickdecooman",
                 "repo": "bazel-rust-docker-example",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "bazel",
+                  "bazel-examples",
+                  "cargo",
+                  "cross-platform",
+                  "docker",
+                  "rust",
+                  "vscode"
+                ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
             }
@@ -1573,15 +2399,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:40:58.686Z",
+    "last_updated": "2026-08-29T04:31:41.114Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Bazel rules, tooling and resources.",
+      "homepage": "https://jin.github.io/awesome-bazel",
       "id": 108140785,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2024-11-13T07:46:30Z",
+      "open_issues": 13,
       "owner": "jin",
       "repo": "awesome-bazel",
-      "stars": 1240
+      "stars": 1240,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "bazel",
+        "bazel-rules",
+        "build",
+        "build-system",
+        "continuous-integration",
+        "list",
+        "skylark"
+      ]
     },
     "original_repository_sha": "408134619ff13f5b10026f49aacb21196b4b4d16",
     "enhanced_repository": "enhansome/enhansome-bazel",
