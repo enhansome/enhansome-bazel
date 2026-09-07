@@ -17,11 +17,11 @@
                 "id": 76734068,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-06T00:48:27Z",
-                "open_issues": 1326,
+                "last_commit": "2026-09-07T08:35:36Z",
+                "open_issues": 1333,
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22420,
+                "stars": 22428,
                 "topics": [
                   "azure-devops",
                   "bitbucket",
@@ -48,8 +48,8 @@
                 "id": 295491525,
                 "language": "Kotlin",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-05T13:40:54Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-06T13:26:28Z",
+                "open_issues": 5,
                 "owner": "Tinder",
                 "repo": "bazel-diff",
                 "stars": 518,
@@ -77,7 +77,7 @@
                 "open_issues": 17,
                 "owner": "bazelbuild",
                 "repo": "bazel-watcher",
-                "stars": 512,
+                "stars": 513,
                 "topics": [
                   "bazel",
                   "build",
@@ -488,8 +488,8 @@
                 "id": 133101528,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T07:18:16Z",
-                "open_issues": 65,
+                "last_commit": "2026-09-06T16:57:10Z",
+                "open_issues": 64,
                 "owner": "bazel-contrib",
                 "repo": "toolchains_llvm",
                 "stars": 370,
@@ -518,7 +518,7 @@
                 "open_issues": 49,
                 "owner": "bazelbuild",
                 "repo": "bazel-toolchains",
-                "stars": 203,
+                "stars": 202,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -682,7 +682,7 @@
                 "open_issues": 97,
                 "owner": "bazelbuild",
                 "repo": "starlark",
-                "stars": 3081,
+                "stars": 3083,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -965,7 +965,7 @@
                 "open_issues": 86,
                 "owner": "buchgr",
                 "repo": "bazel-remote",
-                "stars": 772,
+                "stars": 773,
                 "topics": [
                   "bazel",
                   "build",
@@ -1048,7 +1048,7 @@
                 "open_issues": 460,
                 "owner": "bazel-contrib",
                 "repo": "bazel-gazelle",
-                "stars": 1415,
+                "stars": 1414,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -1345,7 +1345,7 @@
                 "open_issues": 117,
                 "owner": "georgewfraser",
                 "repo": "java-language-server",
-                "stars": 814,
+                "stars": 815,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -1577,8 +1577,8 @@
                     "id": 148143775,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-05T21:44:39Z",
-                    "open_issues": 89,
+                    "last_commit": "2026-09-07T02:07:00Z",
+                    "open_issues": 91,
                     "owner": "bazel-contrib",
                     "repo": "vscode-bazel",
                     "stars": 296,
@@ -2043,11 +2043,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-06T06:58:53Z",
-                "open_issues": 3080,
+                "last_commit": "2026-09-07T08:36:09Z",
+                "open_issues": 3136,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 198873,
+                "stars": 199316,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -2077,7 +2077,7 @@
                 "open_issues": 14,
                 "owner": "GoogleContainerTools",
                 "repo": "distroless",
-                "stars": 23056,
+                "stars": 23059,
                 "topics": [
                   "bazel",
                   "docker"
@@ -2097,11 +2097,11 @@
                 "id": 104231541,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-05T16:36:36Z",
-                "open_issues": 236,
+                "last_commit": "2026-09-07T03:51:31Z",
+                "open_issues": 235,
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18123,
+                "stars": 18125,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -2399,7 +2399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T08:07:29.178Z",
+    "last_updated": "2026-09-07T08:38:39.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Bazel rules, tooling and resources.",
