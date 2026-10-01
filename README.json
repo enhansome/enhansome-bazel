@@ -17,11 +17,11 @@
                 "id": 76734068,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-30T09:56:33Z",
-                "open_issues": 1442,
+                "last_commit": "2026-10-01T10:20:38Z",
+                "open_issues": 1454,
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22633,
+                "stars": 22637,
                 "topics": [
                   "azure-devops",
                   "bitbucket",
@@ -52,7 +52,7 @@
                 "open_issues": 8,
                 "owner": "Tinder",
                 "repo": "bazel-diff",
-                "stars": 525,
+                "stars": 526,
                 "topics": [
                   "bazel",
                   "target-selection",
@@ -488,8 +488,8 @@
                 "id": 133101528,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T22:17:44Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-01T10:08:21Z",
+                "open_issues": 64,
                 "owner": "bazel-contrib",
                 "repo": "toolchains_llvm",
                 "stars": 372,
@@ -682,7 +682,7 @@
                 "open_issues": 98,
                 "owner": "bazelbuild",
                 "repo": "starlark",
-                "stars": 3096,
+                "stars": 3099,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -776,7 +776,7 @@
                 "id": 425866965,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T19:34:54Z",
+                "last_commit": "2026-09-30T23:45:05Z",
                 "open_issues": 80,
                 "owner": "bazel-contrib",
                 "repo": "bazel-lib",
@@ -925,8 +925,8 @@
                 "id": 240583093,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-30T00:48:15Z",
-                "open_issues": 203,
+                "last_commit": "2026-10-01T02:25:21Z",
+                "open_issues": 217,
                 "owner": "buildbuddy-io",
                 "repo": "buildbuddy",
                 "stars": 792,
@@ -951,31 +951,6 @@
             },
             {
               "node_type": "item",
-              "title": "bazelbuild/bazel-buildfarm",
-              "description": "Self-hosted remote caching and execution service written in Java",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Bazel remote caching and execution service",
-                "homepage": "https://buildfarm.github.io/buildfarm/",
-                "id": 96434626,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-29T01:18:10Z",
-                "open_issues": 177,
-                "owner": "buildfarm",
-                "repo": "buildfarm",
-                "stars": 777,
-                "topics": [
-                  "bazel",
-                  "caching",
-                  "remote-execution"
-                ]
-              },
-              "first_seen": "2026-08-28T15:40:58.686Z"
-            },
-            {
-              "node_type": "item",
               "title": "bazel-remote",
               "description": "A simple remote cache for Bazel that supports HTTP and gRPC, with optional proxy backends for S3/GCS/HTTP.",
               "children": [],
@@ -990,7 +965,7 @@
                 "open_issues": 86,
                 "owner": "buchgr",
                 "repo": "bazel-remote",
-                "stars": 776,
+                "stars": 777,
                 "topics": [
                   "bazel",
                   "build",
@@ -1000,6 +975,31 @@
                   "docker-container",
                   "goma",
                   "remote-caching"
+                ]
+              },
+              "first_seen": "2026-08-28T15:40:58.686Z"
+            },
+            {
+              "node_type": "item",
+              "title": "bazelbuild/bazel-buildfarm",
+              "description": "Self-hosted remote caching and execution service written in Java",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Bazel remote caching and execution service",
+                "homepage": "https://buildfarm.github.io/buildfarm/",
+                "id": 96434626,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-30T22:01:08Z",
+                "open_issues": 174,
+                "owner": "buildfarm",
+                "repo": "buildfarm",
+                "stars": 777,
+                "topics": [
+                  "bazel",
+                  "caching",
+                  "remote-execution"
                 ]
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -1044,7 +1044,7 @@
                 "id": 112655189,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T09:51:17Z",
+                "last_commit": "2026-09-30T10:18:48Z",
                 "open_issues": 457,
                 "owner": "bazel-contrib",
                 "repo": "bazel-gazelle",
@@ -1363,7 +1363,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-09-29T18:38:24Z",
-                "open_issues": 169,
+                "open_issues": 168,
                 "owner": "MobileNativeFoundation",
                 "repo": "rules_xcodeproj",
                 "stars": 627,
@@ -1578,7 +1578,7 @@
                     "language": "TypeScript",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-29T08:12:49Z",
-                    "open_issues": 73,
+                    "open_issues": 75,
                     "owner": "bazel-contrib",
                     "repo": "vscode-bazel",
                     "stars": 295,
@@ -2043,11 +2043,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T09:56:43Z",
-                "open_issues": 3271,
+                "last_commit": "2026-10-01T10:26:43Z",
+                "open_issues": 3240,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200632,
+                "stars": 200644,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -2073,11 +2073,11 @@
                 "id": 88674404,
                 "language": "Starlark",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-28T23:53:40Z",
-                "open_issues": 13,
+                "last_commit": "2026-09-30T22:14:29Z",
+                "open_issues": 12,
                 "owner": "GoogleContainerTools",
                 "repo": "distroless",
-                "stars": 23109,
+                "stars": 23110,
                 "topics": [
                   "bazel",
                   "docker"
@@ -2097,11 +2097,11 @@
                 "id": 104231541,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-30T08:59:03Z",
-                "open_issues": 236,
+                "last_commit": "2026-10-01T09:08:58Z",
+                "open_issues": 235,
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18148,
+                "stars": 18151,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -2399,7 +2399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T10:00:21.920Z",
+    "last_updated": "2026-10-01T10:28:09.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Bazel rules, tooling and resources.",
