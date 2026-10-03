@@ -17,11 +17,11 @@
                 "id": 76734068,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-02T23:31:26Z",
-                "open_issues": 1494,
+                "last_commit": "2026-10-03T07:35:05Z",
+                "open_issues": 1495,
                 "owner": "renovatebot",
                 "repo": "renovate",
-                "stars": 22657,
+                "stars": 22659,
                 "topics": [
                   "azure-devops",
                   "bitbucket",
@@ -1684,8 +1684,8 @@
                 "id": 60805080,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T08:17:46Z",
-                "open_issues": 124,
+                "last_commit": "2026-10-03T08:54:56Z",
+                "open_issues": 125,
                 "owner": "bazel-contrib",
                 "repo": "buildtools",
                 "stars": 1194,
@@ -2043,11 +2043,11 @@
                 "id": 45717250,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:18:42Z",
-                "open_issues": 3242,
+                "last_commit": "2026-10-03T09:09:48Z",
+                "open_issues": 3243,
                 "owner": "tensorflow",
                 "repo": "tensorflow",
-                "stars": 200668,
+                "stars": 200676,
                 "topics": [
                   "deep-learning",
                   "deep-neural-networks",
@@ -2101,7 +2101,7 @@
                 "open_issues": 235,
                 "owner": "abseil",
                 "repo": "abseil-cpp",
-                "stars": 18153,
+                "stars": 18154,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:40:58.686Z"
@@ -2399,7 +2399,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:34:35.421Z",
+    "last_updated": "2026-10-03T09:26:29.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Bazel rules, tooling and resources.",
